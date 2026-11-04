@@ -22,7 +22,8 @@
   .logo{font-size:21px;font-weight:800;letter-spacing:-.02em;color:var(--ink)}
   .logo span{color:var(--accent)}
   .navlinks{display:flex;gap:26px;align-items:center;font-size:15px}
-  .navlinks a{color:var(--ink2);font-weight:500}
+  .navlinks a:not(.btn){color:var(--ink2);font-weight:500}
+  .navlinks a.btn{color:#fff}
   .btn{display:inline-block;background:var(--accent);color:#fff;font-weight:600;padding:11px 20px;border-radius:9px;border:1px solid var(--accent)}
   .btn:hover{background:#0a6541;text-decoration:none}
   .btn.ghost{background:#fff;color:var(--ink);border:1px solid #c4cfdb}
