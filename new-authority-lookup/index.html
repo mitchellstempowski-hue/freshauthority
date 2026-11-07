@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>New Trucking Authority Lookup — Free FMCSA New Authority Counts by State | FreshAuthority</title>
+<meta name="description" content="Free new trucking authority lookup: how many new FMCSA authorities were granted in your state yesterday, this week and in the last 30 days — with top cities and real sample rows. No form, no gate. FMCSA file dated November 6, 2026.">
+<link rel="canonical" href="https://freshauthoritydata.com/new-authority-lookup/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="FreshAuthority">
+<meta property="og:title" content="New Trucking Authority Lookup — FreshAuthority">
+<meta property="og:description" content="Free state-by-state counts of new FMCSA trucking authorities: yesterday, this week, trailing 30 days. No form, no gate.">
+<meta property="og:url" content="https://freshauthoritydata.com/new-authority-lookup/">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="New Trucking Authority Lookup — FreshAuthority">
+<meta name="twitter:description" content="Free state-by-state counts of new FMCSA trucking authorities. No form, no gate.">
+<style>
+  :root{
+    --ink:#0e1a2b; --ink2:#33475f; --mut:#5b6b7f; --line:#dde4ec;
+    --bg:#ffffff; --soft:#f4f7fa; --navy:#0b1526; --accent:#0e7a4f; --accent2:#e8a33d;
+    --radius:14px;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:var(--ink);background:var(--bg);line-height:1.55;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 22px}
+  a{color:var(--accent);text-decoration:none}
+  a:hover{text-decoration:underline}
+  header{position:sticky;top:0;background:rgba(255,255,255,.96);border-bottom:1px solid var(--line);z-index:50;backdrop-filter:blur(6px)}
+  .nav{display:flex;align-items:center;justify-content:space-between;height:64px}
+  .logo{font-size:21px;font-weight:800;letter-spacing:-.02em;color:var(--ink)}
+  .logo span{color:var(--accent)}
+  .navlinks{display:flex;gap:26px;align-items:center;font-size:15px}
+  .navlinks a:not(.btn){color:var(--ink2);font-weight:500}
+  .navlinks a.btn{color:#fff}
+  .btn{display:inline-block;background:var(--accent);color:#fff;font-weight:600;padding:11px 20px;border-radius:9px;border:1px solid var(--accent)}
+  .btn:hover{background:#0a6541;text-decoration:none}
+  .btn.ghost{background:#fff;color:var(--ink);border:1px solid #c4cfdb}
+  .btn.ghost:hover{border-color:var(--ink2)}
+  .btn.small{padding:8px 15px;font-size:14px}
+  .hero{background:var(--navy);color:#eef3f8;padding:64px 0 56px}
+  .hero h1{font-size:40px;line-height:1.14;letter-spacing:-.02em;max-width:840px;font-weight:800}
+  .hero h1 em{font-style:normal;color:var(--accent2)}
+  .hero p.sub{font-size:18.5px;color:#b9c7d8;max-width:740px;margin:18px 0 28px}
+  .hero .ctas{display:flex;gap:14px;flex-wrap:wrap}
+  .hero .btn.ghost{background:transparent;color:#eef3f8;border-color:#44597a}
+  .crumbs{font-size:13.5px;color:#8fa3bb;margin-bottom:18px}
+  .crumbs a{color:#c8d6e6}
+  .stats{display:flex;gap:0;flex-wrap:wrap;margin-top:42px;border:1px solid #26374f;border-radius:var(--radius);overflow:hidden}
+  .stat{flex:1 1 150px;padding:16px 18px;border-right:1px solid #26374f;background:#0e1d33}
+  .stat:last-child{border-right:none}
+  .stat b{display:block;font-size:24px;color:#fff;letter-spacing:-.01em}
+  .stat span{font-size:12.5px;color:#8fa3bb;text-transform:uppercase;letter-spacing:.06em}
+  .asof{margin-top:12px;font-size:13px;color:#7d92ad}
+  section{padding:60px 0}
+  section.alt{background:var(--soft)}
+  h2{font-size:29px;letter-spacing:-.02em;line-height:1.2;margin-bottom:14px}
+  .lede{font-size:17.5px;color:var(--ink2);max-width:780px;margin-bottom:28px}
+  .grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+  .grid2{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}
+  .card{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:24px}
+  .card h3{font-size:18px;margin-bottom:8px}
+  .card p{color:var(--ink2);font-size:15.5px}
+  .tag{display:inline-block;font-size:12px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--accent);background:#e6f3ec;padding:4px 10px;border-radius:20px;margin-bottom:12px}
+  table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:var(--radius);overflow:hidden}
+  th,td{text-align:left;padding:11px 14px;font-size:15px;border-bottom:1px solid var(--line)}
+  th{background:var(--navy);color:#fff;font-size:13px;text-transform:uppercase;letter-spacing:.05em}
+  tr:last-child td{border-bottom:none}
+  td{color:var(--ink2)}
+  td b{color:var(--ink)}
+  .plans{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;align-items:stretch}
+  .plan{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:26px 22px;display:flex;flex-direction:column}
+  .plan.featured{border:2px solid var(--accent);position:relative}
+  .plan .badge{position:absolute;top:-13px;left:20px;background:var(--accent);color:#fff;font-size:12px;font-weight:700;padding:4px 12px;border-radius:20px;letter-spacing:.04em}
+  .plan h3{font-size:17px;margin-bottom:4px}
+  .plan .price{font-size:34px;font-weight:800;letter-spacing:-.02em;margin:8px 0 2px}
+  .plan .price small{font-size:15px;font-weight:500;color:var(--mut)}
+  .plan ul{list-style:none;margin:16px 0 22px;flex:1}
+  .plan li{font-size:14.5px;color:var(--ink2);padding:5px 0 5px 22px;position:relative}
+  .plan li::before{content:"\2713";position:absolute;left:0;color:var(--accent);font-weight:700}
+  .plan .btn{text-align:center}
+  .vs td:first-child{font-weight:600;color:var(--ink);width:230px}
+  .note{font-size:13.5px;color:var(--mut);margin-top:14px;max-width:820px}
+  footer{background:var(--navy);color:#9db0c6;padding:48px 0 40px;font-size:14px}
+  footer .cols{display:flex;gap:40px;flex-wrap:wrap;justify-content:space-between}
+  footer h4{color:#fff;font-size:15px;margin-bottom:10px}
+  footer a{color:#c8d6e6}
+  footer .fine{margin-top:30px;border-top:1px solid #26374f;padding-top:20px;color:#7186a0;font-size:13px;max-width:900px}
+  @media(max-width:900px){
+    .plans{grid-template-columns:repeat(2,1fr)}
+    .grid3{grid-template-columns:1fr}
+    .grid2{grid-template-columns:1fr}
+    .hero h1{font-size:32px}
+    .navlinks a:not(.btn){display:none}
+    table{font-size:14px;display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}
+  }
+  @media(max-width:560px){.plans{grid-template-columns:1fr}}
+</style>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Organization",
+   "name": "FreshAuthority",
+   "legalName": "MS ECOM LLC",
+   "url": "https://freshauthoritydata.com/",
+   "email": "mitchell@msecomllc.com",
+   "telephone": "(586) 203-9434"
+  },
+  {
+   "@type": "WebApplication",
+   "name": "FreshAuthority New Trucking Authority Lookup",
+   "url": "https://freshauthoritydata.com/new-authority-lookup/",
+   "applicationCategory": "BusinessApplication",
+   "operatingSystem": "Any",
+   "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+   },
+   "description": "Free lookup of new FMCSA trucking authority grants by state: grants yesterday, this week and trailing 30 days, top cities and masked sample rows, from the FMCSA file dated November 6, 2026."
+  },
+  {
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Is the New Trucking Authority Lookup free?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. State counts, top cities and masked sample rows are free with no form and no account, and they stay free. The paid files and the free 25-lead sample carry full phone and email fields."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Where does the lookup data come from?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Public records published by the Federal Motor Carrier Safety Administration (FMCSA). Counts are computed from the FMCSA file dated November 6, 2026 and refreshed as new files publish."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What does 'granted yesterday' mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Carriers whose operating authority grant date is the newest date in the current FMCSA file (November 6, 2026). 'This week' is the 7 calendar days ending on that date, and the 30-day count is the full trailing-30-day file."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How do I get the full contact details?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Request the free 25-lead sample for your state (full phone and email, no card), or start the free 7-day trial for the daily file delivered by 6 AM ET."
+     }
+    }
+   ]
+  }
+ ]
+}
+</script>
+</head>
+<body>
+<header>
+  <div class="wrap nav">
+    <div class="logo"><a href="../index.html" style="color:inherit">Fresh<span>Authority</span></a></div>
+    <nav class="navlinks">
+      <a href="../index.html#file">The File</a>
+      <a href="../index.html#pricing">Pricing</a>
+      <a href="../new-authority-lookup/">Lookup tool</a>
+      <a href="../index.html#faq">FAQ</a>
+      <a class="btn small" href="../index.html#sample">Get a free sample</a>
+    </nav>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="wrap">
+    <p class="crumbs"><a href="../index.html">FreshAuthority</a> / New authority lookup</p>
+    <h1>New trucking authority <em>lookup</em></h1>
+    <p class="sub">How many new FMCSA operating authorities were granted in your state — yesterday, this week, and in the last 30 days. Real counts from the FMCSA file dated <b>November 6, 2026</b>, with top cities and real sample rows. No form. No gate. The answer is just below.</p>
+    <div class="card" style="text-align:left">
+      <label for="lk-state" style="display:block;font-weight:600;margin-bottom:4px">State</label>
+      <select id="lk-state" style="width:100%;padding:10px;border:1px solid #b9c6bd;border-radius:8px;font:inherit"><option value="AL">Alabama</option><option value="AK">Alaska</option><option value="AZ">Arizona</option><option value="AR">Arkansas</option><option value="CA">California</option><option value="CO">Colorado</option><option value="CT">Connecticut</option><option value="DE">Delaware</option><option value="FL">Florida</option><option value="GA">Georgia</option><option value="HI">Hawaii</option><option value="ID">Idaho</option><option value="IL">Illinois</option><option value="IN">Indiana</option><option value="IA">Iowa</option><option value="KS">Kansas</option><option value="KY">Kentucky</option><option value="LA">Louisiana</option><option value="ME">Maine</option><option value="MD">Maryland</option><option value="MA">Massachusetts</option><option value="MI">Michigan</option><option value="MN">Minnesota</option><option value="MS">Mississippi</option><option value="MO">Missouri</option><option value="MT">Montana</option><option value="NE">Nebraska</option><option value="NV">Nevada</option><option value="NH">New Hampshire</option><option value="NJ">New Jersey</option><option value="NM">New Mexico</option><option value="NY">New York</option><option value="NC">North Carolina</option><option value="ND">North Dakota</option><option value="OH">Ohio</option><option value="OK">Oklahoma</option><option value="OR">Oregon</option><option value="PA">Pennsylvania</option><option value="RI">Rhode Island</option><option value="SC">South Carolina</option><option value="SD">South Dakota</option><option value="TN">Tennessee</option><option value="TX">Texas</option><option value="UT">Utah</option><option value="VT">Vermont</option><option value="VA">Virginia</option><option value="WA">Washington</option><option value="WV">West Virginia</option><option value="WI">Wisconsin</option><option value="WY">Wyoming</option></select>
+      <label for="lk-aud" style="display:block;font-weight:600;margin:12px 0 4px">I sell / I am</label>
+      <select id="lk-aud" style="width:100%;padding:10px;border:1px solid #b9c6bd;border-radius:8px;font:inherit">
+        <option value="insurance">Trucking insurance</option>
+        <option value="factoring">Factoring</option>
+        <option value="other">Dispatch / compliance / other</option>
+      </select>
+    </div>
+    <div id="lk-result" style="margin-top:22px;text-align:left"></div>
+  </div>
+</div>
+
+<section>
+  <div class="wrap">
+    <h2>Questions, answered plainly</h2>
+    <h3>Is the New Trucking Authority Lookup free?</h3><p>Yes. State counts, top cities and masked sample rows are free with no form and no account, and they stay free. The paid files and the free 25-lead sample carry full phone and email fields.</p><h3>Where does the lookup data come from?</h3><p>Public records published by the Federal Motor Carrier Safety Administration (FMCSA). Counts are computed from the FMCSA file dated November 6, 2026 and refreshed as new files publish.</p><h3>What does &#x27;granted yesterday&#x27; mean?</h3><p>Carriers whose operating authority grant date is the newest date in the current FMCSA file (November 6, 2026). &#x27;This week&#x27; is the 7 calendar days ending on that date, and the 30-day count is the full trailing-30-day file.</p><h3>How do I get the full contact details?</h3><p>Request the free 25-lead sample for your state (full phone and email, no card), or start the free 7-day trial for the daily file delivered by 6 AM ET.</p>
+    <p class="note">FreshAuthority compiles data from public records published by FMCSA and USDOT; it is not affiliated with either. Questions: <a href="mailto:mitchell@msecomllc.com">mitchell@msecomllc.com</a> · (586) 203-9434.</p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="cols">
+      <div>
+        <h4>FreshAuthority</h4>
+        <p>Daily new-authority lead files for trucking<br>insurance agents and factoring companies.<br><br><a href="mailto:mitchell@msecomllc.com">mitchell@msecomllc.com</a><br>(586) 203-9434<br>MS ECOM LLC<br>2327 Somerset Blvd, Troy, MI 48084</p>
+      </div>
+      <div>
+        <h4>New authority leads by state</h4>
+        <p><a href="../states/texas.html">Texas new authority leads</a><br>
+        <a href="../states/california.html">California new authority leads</a><br>
+        <a href="../states/florida.html">Florida new authority leads</a><br>
+        <a href="../states/illinois.html">Illinois new authority leads</a><br>
+        <a href="../states/pennsylvania.html">Pennsylvania new authority leads</a><br>
+        <a href="../states/ohio.html">Ohio new authority leads</a><br>
+        <a href="../states/georgia.html">Georgia new authority leads</a><br>
+        <a href="../states/new-jersey.html">New Jersey new authority leads</a><br>
+        <a href="../states/north-carolina.html">North Carolina new authority leads</a><br>
+        <a href="../states/indiana.html">Indiana new authority leads</a></p>
+      </div>
+      <div>
+        <h4>Who it's for</h4>
+        <p><a href="../for/insurance-agents.html">For insurance agents</a><br>
+        <a href="../for/factoring-companies.html">For factoring companies</a><br>
+        <a href="../for/dispatch-services.html">For dispatch services</a><br>
+        <a href="../for/compliance-services.html">For compliance services</a></p>
+      </div>
+      <div>
+        <h4>Compare</h4>
+        <p><a href="../compare/haulercheck.html">FreshAuthority vs HaulerCheck</a><br>
+        <a href="../compare/authorityalerts.html">FreshAuthority vs AuthorityAlerts</a><br>
+        <a href="../compare/rookiefeed.html">FreshAuthority vs RookieFeed</a><br>
+        <a href="../compare/dooza.html">FreshAuthority vs Dooza</a><br>
+        <a href="../compare/best-new-authority-lead-services.html">Best new-authority lead services</a></p>
+      </div>
+    </div>
+    <p class="fine">FreshAuthority compiles data from public records published by the Federal Motor Carrier Safety Administration (FMCSA) and the U.S. Department of Transportation. FreshAuthority is not affiliated with FMCSA or USDOT, and no government endorsement is implied. Filing data is provided as filed by carriers and their insurers; we verify format and completeness on every run but cannot guarantee that any individual record is current at the moment you use it. Buyers are solely responsible for complying with the TCPA, CAN-SPAM Act, and applicable state telemarketing laws in any outreach. © 2026 MS ECOM LLC. All rights reserved.</p>
+  </div>
+</footer>
+<script>
+var LK=null, LINES={
+ insurance:"These carriers need insurance before they can legally haul — every new authority had to put a liability policy on file to activate, and every one of them is a quote waiting to happen.",
+ factoring:"These carriers just got authority and, in most cases, do not have a factor yet — they need one to get paid on their first loads instead of waiting 30+ days.",
+ other:"These carriers just got authority and are setting up everything at once — insurance, factoring, dispatch and compliance help — this week, not someday."};
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+function render(){
+ var code=document.getElementById("lk-state").value, aud=document.getElementById("lk-aud").value, el=document.getElementById("lk-result");
+ if(!LK||!LK.states[code]){el.innerHTML="<p>Loading the newest counts…</p>";return}
+ var s=LK.states[code];
+ var cities=s.top_cities.map(function(c){return esc(c[0])+" ("+c[1]+")"}).join(" · ")||"—";
+ var rows=s.sample.map(function(r){return "<tr><td><b>"+esc(r.name)+"</b></td><td>"+esc(r.city)+"</td><td>"+esc(r.granted)+"</td><td>"+esc(r.insurer)+"</td><td>"+esc(r.trucks)+"</td><td>"+esc(r.cargo)+"</td><td>"+esc(r.phone)+"</td><td>"+esc(r.email)+"</td></tr>"}).join("");
+ el.innerHTML='<div class="stats">'
+ +'<div class="stat"><b>'+s.yesterday+'</b><span>New '+esc(s.name)+' grants yesterday</span></div>'
+ +'<div class="stat"><b>'+s.last7+'</b><span>Grants this week (7 days)</span></div>'
+ +'<div class="stat"><b>'+s.last30+'</b><span>Grants, trailing 30 days</span></div>'
+ +'<div class="stat"><b>'+s.renewals60d+'</b><span>Renewals due in next 60 days</span></div></div>'
+ +'<p class="lede" style="margin-top:16px">'+LINES[aud]+'</p>'
+ +'<p><b>Top cities:</b> '+cities+'</p>'
+ +(rows?'<table><tr><th>Carrier</th><th>City</th><th>Granted</th><th>Insurer on file</th><th>Trucks</th><th>Hauls</th><th>Phone</th><th>Email</th></tr>'+rows+'</table><p class="note">Real rows from the newest '+esc(s.name)+' file, phone and email masked on this public page — the free sample and paid files carry full contacts.</p>':'<p>No new '+esc(s.name)+' grants posted in this window — quiet windows happen in small states; the file refreshes with every FMCSA release.</p>')
+ +'<div class="ctas" style="margin-top:18px"><a class="btn" href="../index.html#sample">Get 25 free '+esc(s.name)+' leads with full contacts</a>'
+ +' <a class="btn ghost" href="https://buy.stripe.com/aFaeVfeFoh0MgofeuhbjW0e">Start free 7-day trial — One State $39/mo</a></div>'
+ +'<p style="margin-top:10px">Every State $79/mo: <a href="https://buy.stripe.com/aFadRbgNwaCob3Vbi5bjW0f">start trial</a> · Every State Plus Feeds $179/mo: <a href="https://buy.stripe.com/4gMdRbdBkcKwdc371PbjW0g">start trial</a> · <a href="../states/'+s.slug+'.html">Full '+esc(s.name)+' page →</a> · <a href="../index.html#pricing">Pricing</a></p>'
+ +'<form action="https://api.web3forms.com/submit" method="POST" onsubmit="this.subject.value='State alert — '+document.getElementById('lk-state').selectedOptions[0].text" style="margin-top:16px">'
+ +'<input type="hidden" name="access_key" value="0df91239-bbf8-4d91-a840-ad835f7f3ab9"><input type="hidden" name="subject" value="State alert"><input type="hidden" name="from_name" value="FreshAuthority Website"><input type="hidden" name="redirect" value="https://freshauthoritydata.com/thanks.html"><input type="checkbox" name="botcheck" style="display:none">'
+ +'<input type="hidden" name="state" id="lk-alert-state" value="'+esc(s.name)+'">'
+ +'<label style="font-weight:600">Alert me when new '+esc(s.name)+' authorities drop</label><br>'
+ +'<input type="email" name="email" required placeholder="you@agency.com" style="padding:9px 10px;border:1px solid #b9c6bd;border-radius:8px;font:inherit;min-width:260px"> <button class="btn" type="submit">Alert me</button></form>'
+ +'<p class="asof">Counts from the FMCSA public file dated '+esc(LK.file_date_long)+': yesterday = '+esc(LK.windows.yesterday)+'; this week = '+esc(LK.windows.last7)+'; 30 days = '+esc(LK.windows.last30)+'.</p>';
+ document.getElementById("lk-alert-state").value=s.name;
+}
+fetch("../data/lookup-data.json").then(function(r){return r.json()}).then(function(d){LK=d;var q=new URLSearchParams(location.search).get("state");if(q&&LK.states[q.toUpperCase()])document.getElementById("lk-state").value=q.toUpperCase();render()}).catch(function(){document.getElementById("lk-result").innerHTML="<p>Counts could not load — see the <a href=../index.html#volumes>state volumes on the homepage</a>.</p>"});
+document.getElementById("lk-state").addEventListener("change",render);
+document.getElementById("lk-aud").addEventListener("change",render);
+</script>
+</body>
+</html>

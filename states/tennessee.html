@@ -149,6 +149,7 @@
     <nav class="navlinks">
       <a href="../index.html#file">The File</a>
       <a href="../index.html#pricing">Pricing</a>
+      <a href="../new-authority-lookup/">Lookup tool</a>
       <a href="../index.html#faq">FAQ</a>
       <a class="btn small" href="../index.html#sample">Get a free sample</a>
     </nav>
@@ -269,7 +270,49 @@
   </div>
 </section>
 
-<footer>
+<div class="wrap" style="padding:0 20px"><p class="note">Just want the count? <a href="../new-authority-lookup/?state=TN">Look up Tennessee in the free New Trucking Authority Lookup →</a></p></div><!-- CAPTURE-MODULE:START -->
+<div class="capturemod" id="capture-module">
+
+<style>
+.capturemod{max-width:1060px;margin:0 auto;padding:0 20px}
+.capturemod .cm-box{border:2px solid var(--accent,#1d6f4e);border-radius:14px;padding:22px 24px;margin:34px 0;background:#f4faf6}
+.capturemod h3{margin:0 0 6px;font-size:21px}
+.capturemod p{margin:0 0 14px}
+.capturemod .cm-grid{display:flex;gap:22px;flex-wrap:wrap}
+.capturemod .cm-col{flex:1 1 280px}
+.capturemod label{display:block;font-weight:600;margin:8px 0 4px;font-size:14px}
+.capturemod input,.capturemod select{width:100%;padding:9px 10px;border:1px solid #b9c6bd;border-radius:8px;font:inherit}
+.capturemod .cm-close{float:right;background:none;border:0;font-size:20px;cursor:pointer;line-height:1}
+</style>
+
+  <div class="cm-box">
+    <button type="button" class="cm-close" aria-label="Dismiss" onclick="document.getElementById('capture-module').style.display='none';try{sessionStorage.setItem('fa_cm_closed','1')}catch(e){}">&times;</button>
+    <h3>Work this market every morning — free to start</h3>
+    <p>Get 25 real leads from your state with full phone and email, free — or get an email the day new authorities drop in your state.</p>
+    <div class="cm-grid">
+      <div class="cm-col">
+        <p style="margin:0"><a class="btn" href="../index.html#sample">Get my free 25-lead sample</a></p>
+        <p class="note" style="margin-top:8px">No card. Sent within the hour on business days.</p>
+      </div>
+      <div class="cm-col">
+        <form action="https://api.web3forms.com/submit" method="POST" onsubmit="this.subject.value='State alert — '+this.state.value">
+          <input type="hidden" name="access_key" value="0df91239-bbf8-4d91-a840-ad835f7f3ab9">
+          <input type="hidden" name="subject" value="State alert">
+          <input type="hidden" name="from_name" value="FreshAuthority Website">
+          <input type="hidden" name="redirect" value="https://freshauthoritydata.com/thanks.html">
+          <input type="checkbox" name="botcheck" style="display:none">
+          <label>Alert me when new authorities drop in</label>
+          <select name="state" required><option value="AL">Alabama</option><option value="AK">Alaska</option><option value="AZ">Arizona</option><option value="AR">Arkansas</option><option value="CA">California</option><option value="CO">Colorado</option><option value="CT">Connecticut</option><option value="DE">Delaware</option><option value="FL">Florida</option><option value="GA">Georgia</option><option value="HI">Hawaii</option><option value="ID">Idaho</option><option value="IL">Illinois</option><option value="IN">Indiana</option><option value="IA">Iowa</option><option value="KS">Kansas</option><option value="KY">Kentucky</option><option value="LA">Louisiana</option><option value="ME">Maine</option><option value="MD">Maryland</option><option value="MA">Massachusetts</option><option value="MI">Michigan</option><option value="MN">Minnesota</option><option value="MS">Mississippi</option><option value="MO">Missouri</option><option value="MT">Montana</option><option value="NE">Nebraska</option><option value="NV">Nevada</option><option value="NH">New Hampshire</option><option value="NJ">New Jersey</option><option value="NM">New Mexico</option><option value="NY">New York</option><option value="NC">North Carolina</option><option value="ND">North Dakota</option><option value="OH">Ohio</option><option value="OK">Oklahoma</option><option value="OR">Oregon</option><option value="PA">Pennsylvania</option><option value="RI">Rhode Island</option><option value="SC">South Carolina</option><option value="SD">South Dakota</option><option value="TN" selected>Tennessee</option><option value="TX">Texas</option><option value="UT">Utah</option><option value="VT">Vermont</option><option value="VA">Virginia</option><option value="WA">Washington</option><option value="WV">West Virginia</option><option value="WI">Wisconsin</option><option value="WY">Wyoming</option></select>
+          <label>Work email</label>
+          <input type="email" name="email" required autocomplete="email" placeholder="you@agency.com">
+          <p style="margin-top:10px"><button class="btn" type="submit">Alert me</button></p>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+<script>try{if(sessionStorage.getItem('fa_cm_closed'))document.getElementById('capture-module').style.display='none'}catch(e){}</script>
+<!-- CAPTURE-MODULE:END --><footer>
   <div class="wrap">
     <div class="cols">
       <div>

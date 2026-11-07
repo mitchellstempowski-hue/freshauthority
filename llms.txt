@@ -25,6 +25,7 @@
 
 ## Key pages
 
+- Free New Trucking Authority Lookup (state counts yesterday / this week / trailing 30 days, top cities, masked sample rows — no form, no gate): https://freshauthoritydata.com/new-authority-lookup/
 - Homepage and pricing: https://freshauthoritydata.com/
 - New-authority leads by state (example, Texas): https://freshauthoritydata.com/states/texas.html — replace the state slug for any of the 50 states.
 - Insurance renewals by state: https://freshauthoritydata.com/renewals/index.html
