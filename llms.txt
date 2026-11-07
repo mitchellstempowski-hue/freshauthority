@@ -1,0 +1,40 @@
+# FreshAuthority
+
+> FreshAuthority sells daily FMCSA new-authority lead files by subscription to trucking insurance agents and factoring companies. Every new FMCSA operating authority granted in a subscriber's state is delivered as a clean CSV by 6 AM ET, with the carrier's current insurer and policy timing first, then phone, email, fleet size, and cargo. Every plan also includes two trigger files: carriers whose liability insurance renews in the next 60 days, and carriers whose liability filing recently lapsed. Operated by MS ECOM LLC. Business phone: (586) 203-9434. Contact: mitchell@msecomllc.com.
+
+## Who it is for
+
+- Trucking insurance agents who write new motor carriers and need the FMCSA new authority list daily, before competitors see it.
+- Freight factoring companies that need new carrier leads — companies with a brand-new authority and, in most cases, no factor yet.
+- Also used by trucking dispatch services and compliance services prospecting newly granted carriers.
+
+## Pricing (USD, per month)
+
+- One State: $39/mo — one state's daily new-authority file, plus that state's renewals and lapsed-liability files.
+- Every State: $79/mo — all 50 states' daily files and trigger files.
+- Every State Plus Feeds: $179/mo — everything in Every State, plus the revocations + reinstatements feed, the insurance filing + cancellation feed, the phone/address/name change feed, and a 5,000-carrier watchlist with full change feeds.
+- Annual billing is available on the same plans at two months free ($390/yr, $790/yr, $1,790/yr).
+
+## Trial, sample, and guarantee
+
+- Free 25-lead sample: a free sample of 25 leads from any one state, no card required.
+- Free 7-day trial: every paid plan starts with a free 7-day trial; a card is required to start and there is no charge for the first 7 days. Partner-referred prospects may qualify for a 7-day no-card trial via the partner program.
+- Accuracy guarantee: if fewer than 95% of rows in a file have a working phone or email, that month is free.
+- Delivery: files are delivered by 6 AM ET on delivery mornings.
+- Data source: public records published by the Federal Motor Carrier Safety Administration (FMCSA) and the U.S. Department of Transportation. FreshAuthority is not affiliated with FMCSA or USDOT.
+
+## Key pages
+
+- Homepage and pricing: https://freshauthoritydata.com/
+- New-authority leads by state (example, Texas): https://freshauthoritydata.com/states/texas.html — replace the state slug for any of the 50 states.
+- Insurance renewals by state: https://freshauthoritydata.com/renewals/index.html
+- For trucking insurance agents: https://freshauthoritydata.com/for/insurance-agents.html
+- For factoring companies: https://freshauthoritydata.com/for/factoring-companies.html
+- For dispatch services: https://freshauthoritydata.com/for/dispatch-services.html
+- For compliance services: https://freshauthoritydata.com/for/compliance-services.html
+- Comparison — FreshAuthority vs HaulerCheck: https://freshauthoritydata.com/compare/haulercheck.html
+- Comparison — best new-authority lead services: https://freshauthoritydata.com/compare/best-new-authority-lead-services.html
+- Methodology — how the file is built: https://freshauthoritydata.com/methodology.html
+- Lead-value calculator: https://freshauthoritydata.com/calculator.html
+- Partner program (25% recurring revenue share for 12 months on attributed subscriptions): https://freshauthoritydata.com/partners/
+- Full page list: https://freshauthoritydata.com/sitemap.xml

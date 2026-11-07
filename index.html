@@ -4,7 +4,174 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>FreshAuthority — Daily New-Authority Trucking Leads for Insurance Agents &amp; Factoring Companies</title>
-<meta name="description" content="Every new FMCSA operating authority granted in your state, delivered as a clean CSV by 6 AM Eastern — insurer and renewal timing first, with phone, email, and two trigger files (renewals due in 60 days, lapsed liability) included in every plan. Free 7-day trial on every plan.">
+<meta name="description" content="Every new FMCSA operating authority granted in your state, delivered as a clean CSV by 6 AM Eastern — insurer and renewal timing first, with phone, email, and two trigger files (renewals due in 60 days, lapsed liability) included in every plan. Free 7-day trial on every plan."
+<link rel="canonical" href="https://freshauthoritydata.com/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="FreshAuthority">
+<meta property="og:title" content="FreshAuthority — Daily New-Authority Trucking Leads for Insurance Agents &amp; Factoring Companies">
+<meta property="og:description" content="Every new FMCSA operating authority granted in your state, delivered as a clean CSV by 6 AM Eastern — insurer and renewal timing first, with phone, email, and two trigger files (renewals due in 60 days, lapsed liability) included in every plan. Free 7-day trial on every plan.">
+<meta property="og:url" content="https://freshauthoritydata.com/">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="FreshAuthority — Daily New-Authority Trucking Leads for Insurance Agents &amp; Factoring Companies">
+<meta name="twitter:description" content="Every new FMCSA operating authority granted in your state, delivered as a clean CSV by 6 AM Eastern — insurer and renewal timing first, with phone, email, and two trigger files (renewals due in 60 days, lapsed liability) included in every plan. Free 7-day trial on every plan.">
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Organization",
+   "name": "FreshAuthority",
+   "legalName": "MS ECOM LLC",
+   "url": "https://freshauthoritydata.com/",
+   "email": "mitchell@msecomllc.com",
+   "telephone": "(586) 203-9434",
+   "description": "Daily FMCSA new-authority lead files for trucking insurance agents and factoring companies, delivered by 6 AM ET."
+  },
+  {
+   "@type": "WebSite",
+   "name": "FreshAuthority",
+   "url": "https://freshauthoritydata.com/"
+  },
+  {
+   "@type": "Product",
+   "name": "FreshAuthority — Daily FMCSA New-Authority Lead Files",
+   "description": "Every new FMCSA operating authority granted in your state, delivered as a clean CSV by 6 AM ET, with insurer and renewal timing, phone and email, plus renewals-due-in-60-days and lapsed-liability trigger files in every plan. Free 25-lead sample; free 7-day trial (card required) on every plan; at least 95% contactable rows or the month is free.",
+   "brand": {
+    "@type": "Organization",
+    "name": "FreshAuthority"
+   },
+   "offers": [
+    {
+     "@type": "Offer",
+     "name": "One State",
+     "price": "39",
+     "priceCurrency": "USD",
+     "url": "https://freshauthoritydata.com/#pricing",
+     "availability": "https://schema.org/InStock"
+    },
+    {
+     "@type": "Offer",
+     "name": "Every State",
+     "price": "79",
+     "priceCurrency": "USD",
+     "url": "https://freshauthoritydata.com/#pricing",
+     "availability": "https://schema.org/InStock"
+    },
+    {
+     "@type": "Offer",
+     "name": "Every State Plus Feeds",
+     "price": "179",
+     "priceCurrency": "USD",
+     "url": "https://freshauthoritydata.com/#pricing",
+     "availability": "https://schema.org/InStock"
+    }
+   ]
+  },
+  {
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Where does the data come from?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "FMCSA's own public records — the Licensing & Insurance files and the motor carrier census, published by the U.S. Department of Transportation. FreshAuthority compiles, cleans, deduplicates, and delivers them in a workable format. The underlying records are public; you're paying for the daily compilation, the trigger files, and the delivery, not for the raw data."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How current is it?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The grants file is rebuilt from the latest FMCSA release every delivery morning (Monday–Saturday) and delivered by 6:00 AM Eastern — up to three hours before services that deliver around 8:00 AM Central. A grant that posts to FMCSA's system is in your file the next delivery cycle — typically within one business day of the grant itself."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is the renewal date calculated? FMCSA doesn't publish expirations.",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Correct — and any seller who claims otherwise is guessing quietly. We use the industry-standard method: a policy's renewal falls on the anniversary of its liability filing's effective date. The renewals file lists carriers whose anniversary falls within the next 60 days, filtered to policies at least 300 days old. It's a proxy — an accurate, openly-described one."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What counts as a \"lapse\"?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "A carrier whose liability (BIPD) filing shows a cancellation effective within the last 30 days and who has no active replacement filing in the current insurance file. Those carriers face authority revocation if they don't re-file — which is why the list converts."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Some listed contacts belong to a filing service, not the carrier. What about that?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Straight answer: it happens, on every list built from FMCSA filings. The contact on a row is whoever the carrier put on its federal filings, and some carriers file through a compliance or insurance-filing service — so occasionally the phone or email belongs to that service rather than to the carrier itself. We're adding a contact_type flag to the file that marks contacts appearing across many unrelated carriers as likely filing-agent contacts; that flag is in development and is not in the file yet, and we'd rather say so plainly than pretend the problem doesn't exist. Every other field on the row — carrier, address, insurer, dates — is still the carrier's own."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Are the phone numbers cell phones?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Every row carries the phone number the carrier filed. The phone_type field flags it as a cell when the number matches the carrier's census cell-phone field. Numbers that match only the business phone field are marked business/unknown — we flag what we can verify and label the rest honestly."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How does the free 7-day trial work?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Pick any plan and check out with a card — you are not charged for the first 7 days, and cancelling before day 7 costs nothing. Files deliver daily during the trial, same as a paid plan. If you keep it, billing starts on day 8 at that plan's monthly price; cancel anytime after that from the link in your Stripe receipt."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What if I forget to cancel after the trial?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Forgot to cancel? If your trial converts and you ask within 7 days of the first charge, we refund it in full — no questions, no forms. Email mitchell@msecomllc.com from the address on the account and we process the refund through Stripe."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What exactly does the accuracy guarantee cover?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "If fewer than 95% of rows in a file have a working phone or email, that month is free. Email us the file, we verify it against the filing data, and a file below 95% means no charge for that month. Contact data comes from the carriers' own federal filings — the guarantee is how we stand behind the compilation."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Can I change states or cancel?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes to both, anytime — reply to any delivery email to change states; cancel from the link in your Stripe receipt. There is no contract and no cancellation call. Every State includes book-watchlist alerts on up to 500 of your carriers; Plus Feeds expands the watchlist to 5,000 carriers with the full change feeds."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is this legal to use for outreach?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The records are public federal filings. Your outreach still has to follow the rules: you are responsible for TCPA, CAN-SPAM, and state telemarketing compliance when you call, text, or email any lead from any source, including this one. Don't text numbers without consent, honor opt-outs, and check the national and state do-not-call lists as your counsel advises."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Are you affiliated with FMCSA or the DOT?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No. FreshAuthority is a private data service operated by MS ECOM LLC. We are not affiliated with, endorsed by, or acting on behalf of FMCSA, the U.S. Department of Transportation, or any government agency."
+     }
+    }
+   ]
+  }
+ ]
+}
+</script>
+>
 <style>
   :root{
     --ink:#0e1a2b; --ink2:#33475f; --mut:#5b6b7f; --line:#dde4ec;
