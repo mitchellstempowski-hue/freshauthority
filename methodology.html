@@ -155,7 +155,7 @@
     <h2>The sources</h2>
     <p class="lede">Two public datasets published by the U.S. Department of Transportation: FMCSA's <b>Licensing &amp; Insurance file</b> (every carrier's liability insurance filings, effective dates and cancellations) and the <b>motor carrier census</b> (the carrier's own filed address, phone, email, fleet size and cargo). Nothing is scraped from private sources, and no contact on any row is invented or appended from a third-party database — the phone and email on a row are the ones the carrier itself filed with the federal government.</p>
     <h2>The daily run</h2>
-    <p class="lede">The pipeline runs every delivery morning (Monday–Saturday) before the 6:00 AM ET send. It downloads the freshest FMCSA release, rebuilds all three files from scratch — no recycled rows — deduplicates to one row per carrier, and applies the product scope: for-hire property, household-goods, passenger and enterprise carrier authorities. Brokers and freight forwarders are excluded; they don't buy the policy. Measured output of the October 29, 2026 file (the run behind this site's current numbers): <b>6,193 new grants</b> across 56 jurisdictions, <b>6,069 renewals</b> due in the next 60 days, <b>2,069 lapsed-liability</b> carriers.</p>
+    <p class="lede">The pipeline runs every delivery morning (Monday–Saturday) before the 6:00 AM ET send. It downloads the freshest FMCSA release, rebuilds all three files from scratch — no recycled rows — deduplicates to one row per carrier, and applies the product scope: for-hire property, household-goods, passenger and enterprise carrier authorities. Brokers and freight forwarders are excluded; they don't buy the policy. Measured output of the November 7, 2026 file (the run behind this site's current numbers): <b>5,933 new grants</b> across 58 jurisdictions, <b>6,180 renewals</b> due in the next 60 days, <b>2,195 lapsed-liability</b> carriers.</p>
     <div class="grid3">
       <div class="card"><span class="tag">File 1</span><h3>New grants</h3><p>Carriers whose operating authority was granted in the trailing 30 days, newest first. The grant date is the date on the federal record — the row exists because the grant happened.</p></div>
       <div class="card"><span class="tag">File 2</span><h3>Renewals, next 60 days</h3><p>Established carriers whose liability policy anniversary falls within the next 60 days, with the current insurer named. Built by the anniversary method — see its limits below, stated plainly.</p></div>
@@ -177,13 +177,13 @@
 <section>
   <div class="wrap">
     <h2>Quality checks, measured on the real run</h2>
-    <p class="lede">Every run is checked before anything is delivered: file schema and field formats, row counts reconciled against the source release, deduplication verified, and contact coverage measured. From the October 29, 2026 build run (6,193 grant rows):</p>
+    <p class="lede">Every run is checked before anything is delivered: file schema and field formats, row counts reconciled against the source release, deduplication verified, and contact coverage measured. From the November 7, 2026 build run (5,933 grant rows):</p>
     <table>
       <tr><th>Measure</th><th>Result</th></tr>
-      <tr><td>Rows with a phone number on file</td><td><b>6,191 of 6,193 (99.97%)</b></td></tr>
-      <tr><td>Rows with an email address on file</td><td><b>6,191 of 6,193 (99.97%)</b></td></tr>
-      <tr><td>Rows with a phone or an email</td><td><b>6,193 of 6,193 (100.00%)</b></td></tr>
-      <tr><td>Rows flagged cell by the census match</td><td><b>1,937</b></td></tr>
+      <tr><td>Rows with a phone number on file</td><td><b>5,931 of 5,933 (99.97%)</b></td></tr>
+      <tr><td>Rows with an email address on file</td><td><b>5,929 of 5,933 (99.93%)</b></td></tr>
+      <tr><td>Rows with a phone or an email</td><td><b>5,933 of 5,933 (100.00%)</b></td></tr>
+      <tr><td>Rows flagged cell by the census match</td><td><b>1,827</b></td></tr>
     </table>
     <p class="note">Coverage is measured per run; if a delivered file ever falls below 95% of rows with a working phone or email, that month is free — that's the guarantee, and it's why we publish the measurement.</p>
     <h2 style="margin-top:36px">One thing the file doesn't do yet</h2>
