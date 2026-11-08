@@ -264,8 +264,8 @@ function render(){
  +'<p><b>Top cities:</b> '+cities+'</p>'
  +(rows?'<table><tr><th>Carrier</th><th>City</th><th>Granted</th><th>Insurer on file</th><th>Trucks</th><th>Hauls</th><th>Phone</th><th>Email</th></tr>'+rows+'</table><p class="note">Real rows from the newest '+esc(s.name)+' file, phone and email masked on this public page — the free sample and paid files carry full contacts.</p>':'<p>No new '+esc(s.name)+' grants posted in this window — quiet windows happen in small states; the file refreshes with every FMCSA release.</p>')
  +'<div class="ctas" style="margin-top:18px"><a class="btn" href="../index.html#sample">Get 25 free '+esc(s.name)+' leads with full contacts</a>'
- +' <a class="btn ghost" href="https://buy.stripe.com/aFaeVfeFoh0MgofeuhbjW0e">Start free 7-day trial — One State $39/mo</a></div>'
- +'<p style="margin-top:10px">Every State $79/mo: <a href="https://buy.stripe.com/aFadRbgNwaCob3Vbi5bjW0f">start trial</a> · Every State Plus Feeds $179/mo: <a href="https://buy.stripe.com/4gMdRbdBkcKwdc371PbjW0g">start trial</a> · <a href="../states/'+s.slug+'.html">Full '+esc(s.name)+' page →</a> · <a href="../index.html#pricing">Pricing</a></p>'
+ +' <a class="btn ghost" href="https://buy.stripe.com/7sY4gB40K39W8VN0DrbjW0z">Start free 7-day trial — All States $49/mo, no card</a></div>'
+ +'<p style="margin-top:10px">Plus Feeds $99/mo: <a href="https://buy.stripe.com/6oUfZjcxg5i40ph85TbjW0B">start trial</a> · <a href="../states/'+s.slug+'.html">Full '+esc(s.name)+' page →</a> · <a href="../index.html#pricing">Pricing</a></p>'
  +'<form action="https://api.web3forms.com/submit" method="POST" onsubmit="return lkSetSubject(this)" style="margin-top:16px">'
  +'<input type="hidden" name="access_key" value="0df91239-bbf8-4d91-a840-ad835f7f3ab9"><input type="hidden" name="subject" value="State alert"><input type="hidden" name="from_name" value="FreshAuthority Website"><input type="hidden" name="redirect" value="https://freshauthoritydata.com/thanks-alert/"><input type="checkbox" name="botcheck" style="display:none">'
  +'<input type="hidden" name="state" id="lk-alert-state" value="'+esc(s.name)+'">'

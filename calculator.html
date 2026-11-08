@@ -4,16 +4,16 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Lead-Value Calculator — What a Month of New Authorities Is Worth | FreshAuthority</title>
-<meta name="description" content="Run your own math: real trailing-30-day grant counts by state, your close rate, your average premium, your commission — expected policies, expected commission, and true cost per lead on $39/$79 plans."
+<meta name="description" content="Run your own math: real trailing-30-day grant counts by state, your close rate, your average premium, your commission — expected policies, expected commission, and true cost per lead on the $49 All States plan."
 <link rel="canonical" href="https://freshauthoritydata.com/calculator.html">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="FreshAuthority">
 <meta property="og:title" content="Lead-Value Calculator — What a Month of New Authorities Is Worth | FreshAuthority">
-<meta property="og:description" content="Run your own math: real trailing-30-day grant counts by state, your close rate, your average premium, your commission — expected policies, expected commission, and true cost per lead on $39/$79 plans.">
+<meta property="og:description" content="Run your own math: real trailing-30-day grant counts by state, your close rate, your average premium, your commission — expected policies, expected commission, and true cost per lead on the $49 All States plan.">
 <meta property="og:url" content="https://freshauthoritydata.com/calculator.html">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Lead-Value Calculator — What a Month of New Authorities Is Worth | FreshAuthority">
-<meta name="twitter:description" content="Run your own math: real trailing-30-day grant counts by state, your close rate, your average premium, your commission — expected policies, expected commission, and true cost per lead on $39/$79 plans.">
+<meta name="twitter:description" content="Run your own math: real trailing-30-day grant counts by state, your close rate, your average premium, your commission — expected policies, expected commission, and true cost per lead on the $49 All States plan.">
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
@@ -173,7 +173,7 @@
         <p class="bigout" id="o-policies">—</p>
         <p class="note">Expected first-year commission from one month's leads</p>
         <p class="bigout" id="o-commission">—</p>
-        <p class="note">Cost per lead — One State ($39 ÷ your state's grants) / Every State ($79 ÷ all 50 states' grants)</p>
+        <p class="note">Cost per lead — All States ($49 ÷ all 50 states' grants, trailing 30 days)</p>
         <p class="bigout" id="o-cpl">—</p>
       </div>
     </div>
@@ -201,8 +201,7 @@
     document.getElementById("o-grants").textContent=g.toLocaleString();
     document.getElementById("o-policies").textContent=(Math.round(policies*10)/10).toLocaleString();
     document.getElementById("o-commission").textContent=money(commission);
-    var cpl1=g>0?("$"+(39/g).toFixed(2)):"—", cpl2="$"+(79/nat).toFixed(3);
-    document.getElementById("o-cpl").textContent=cpl1+" / "+cpl2;
+    document.getElementById("o-cpl").textContent="$"+(49/nat).toFixed(3);
   }
   fetch("/data/state-counts.json").then(function(r){return r.json()}).then(function(j){
     counts=j; nat=0; Object.keys(j).forEach(function(k){nat+=j[k].grants30d});

@@ -10,15 +10,15 @@
 
 ## Pricing (USD, per month)
 
-- One State: $39/mo — one state's daily new-authority file, plus that state's renewals and lapsed-liability files.
-- Every State: $79/mo — all 50 states' daily files and trigger files.
-- Every State Plus Feeds: $179/mo — everything in Every State, plus the revocations + reinstatements feed, the insurance filing + cancellation feed, the phone/address/name change feed, and a 5,000-carrier watchlist with full change feeds.
-- Annual billing is available on the same plans at two months free ($390/yr, $790/yr, $1,790/yr).
+- All States: $49/mo — all 50 states' daily new-authority files and trigger files (renewals due in 60 days and lapsed liability included), plus a book watchlist of up to 500 of the subscriber's own carriers.
+- Plus Feeds: $99/mo — everything in All States, plus the revocations + reinstatements feed, the insurance filing + cancellation feed, the phone/address/name change feed, dialer-ready files, and a 5,000-carrier watchlist with full change feeds.
+- There is no one-state tier; every plan covers all 50 states.
+- Annual billing is available on the same plans at two months free ($490/yr, $990/yr).
 
 ## Trial, sample, and guarantee
 
 - Free 25-lead sample: a free sample of 25 leads from any one state, no card required.
-- Free 7-day trial: every paid plan starts with a free 7-day trial; a card is required to start and there is no charge for the first 7 days. Partner-referred prospects may qualify for a 7-day no-card trial via the partner program.
+- Free 7-day trial: every paid plan starts with a free 7-day trial; no card is needed to start and there is no charge for the first 7 days — the card is added when the paid plan begins on day 7. If a subscriber asks within 7 days of the first paid charge, that charge is refunded in full.
 - Accuracy guarantee: if fewer than 95% of rows in a file have a working phone or email, that month is free.
 - Delivery: files are delivered by 6 AM ET on delivery mornings.
 - Data source: public records published by the Federal Motor Carrier Safety Administration (FMCSA) and the U.S. Department of Transportation. FreshAuthority is not affiliated with FMCSA or USDOT.
