@@ -26,6 +26,7 @@
 ## Key pages
 
 - Free New Trucking Authority Lookup (state counts yesterday / this week / trailing 30 days, top cities, masked sample rows — no form, no gate): https://freshauthoritydata.com/new-authority-lookup/
+- New Authority Formation Index (free monthly count of new FMCSA trucking authority grants by state, full state table, quotable facts, downloadable aggregate CSV; first complete month October 2026 — 6,375 grants in the 50 states): https://freshauthoritydata.com/formation-index/ — aggregate data CSV: https://freshauthoritydata.com/data/formation-index-monthly.csv
 - Homepage and pricing: https://freshauthoritydata.com/
 - New-authority leads by state (example, Texas): https://freshauthoritydata.com/states/texas.html — replace the state slug for any of the 50 states.
 - Insurance renewals by state: https://freshauthoritydata.com/renewals/index.html
