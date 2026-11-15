@@ -5,49 +5,49 @@
   "renewals60d": 1
  },
  "AL": {
-  "grants30d": 70,
-  "lapses30d": 34,
-  "renewals60d": 57
+  "grants30d": 74,
+  "lapses30d": 32,
+  "renewals60d": 60
  },
  "AR": {
   "grants30d": 36,
-  "lapses30d": 27,
-  "renewals60d": 42
+  "lapses30d": 25,
+  "renewals60d": 43
  },
  "AZ": {
-  "grants30d": 108,
-  "lapses30d": 52,
-  "renewals60d": 89
+  "grants30d": 109,
+  "lapses30d": 51,
+  "renewals60d": 91
  },
  "CA": {
-  "grants30d": 490,
-  "lapses30d": 290,
-  "renewals60d": 1115
+  "grants30d": 492,
+  "lapses30d": 286,
+  "renewals60d": 1139
  },
  "CO": {
-  "grants30d": 71,
-  "lapses30d": 34,
-  "renewals60d": 78
+  "grants30d": 67,
+  "lapses30d": 32,
+  "renewals60d": 82
  },
  "CT": {
-  "grants30d": 51,
-  "lapses30d": 13,
-  "renewals60d": 39
+  "grants30d": 53,
+  "lapses30d": 12,
+  "renewals60d": 43
  },
  "DE": {
   "grants30d": 16,
-  "lapses30d": 15,
-  "renewals60d": 12
+  "lapses30d": 16,
+  "renewals60d": 13
  },
  "FL": {
-  "grants30d": 389,
-  "lapses30d": 202,
-  "renewals60d": 417
+  "grants30d": 398,
+  "lapses30d": 199,
+  "renewals60d": 431
  },
  "GA": {
-  "grants30d": 210,
-  "lapses30d": 115,
-  "renewals60d": 205
+  "grants30d": 220,
+  "lapses30d": 110,
+  "renewals60d": 207
  },
  "HI": {
   "grants30d": 0,
@@ -55,198 +55,198 @@
   "renewals60d": 1
  },
  "IA": {
-  "grants30d": 50,
-  "lapses30d": 23,
-  "renewals60d": 59
+  "grants30d": 49,
+  "lapses30d": 22,
+  "renewals60d": 62
  },
  "ID": {
   "grants30d": 26,
-  "lapses30d": 10,
-  "renewals60d": 34
+  "lapses30d": 11,
+  "renewals60d": 32
  },
  "IL": {
-  "grants30d": 365,
-  "lapses30d": 126,
-  "renewals60d": 490
+  "grants30d": 375,
+  "lapses30d": 119,
+  "renewals60d": 499
  },
  "IN": {
-  "grants30d": 124,
-  "lapses30d": 68,
-  "renewals60d": 191
+  "grants30d": 120,
+  "lapses30d": 71,
+  "renewals60d": 192
  },
  "KS": {
-  "grants30d": 41,
-  "lapses30d": 10,
-  "renewals60d": 64
+  "grants30d": 40,
+  "lapses30d": 11,
+  "renewals60d": 66
  },
  "KY": {
-  "grants30d": 60,
-  "lapses30d": 13,
-  "renewals60d": 71
+  "grants30d": 61,
+  "lapses30d": 14,
+  "renewals60d": 75
  },
  "LA": {
-  "grants30d": 24,
-  "lapses30d": 18,
+  "grants30d": 23,
+  "lapses30d": 17,
   "renewals60d": 30
  },
  "MA": {
-  "grants30d": 57,
-  "lapses30d": 24,
-  "renewals60d": 42
+  "grants30d": 56,
+  "lapses30d": 23,
+  "renewals60d": 45
  },
  "MD": {
-  "grants30d": 96,
-  "lapses30d": 45,
-  "renewals60d": 76
+  "grants30d": 98,
+  "lapses30d": 44,
+  "renewals60d": 79
  },
  "ME": {
   "grants30d": 11,
   "lapses30d": 1,
-  "renewals60d": 10
+  "renewals60d": 7
  },
  "MI": {
-  "grants30d": 115,
-  "lapses30d": 47,
-  "renewals60d": 129
+  "grants30d": 119,
+  "lapses30d": 46,
+  "renewals60d": 139
  },
  "MN": {
-  "grants30d": 108,
+  "grants30d": 106,
   "lapses30d": 35,
-  "renewals60d": 128
+  "renewals60d": 127
  },
  "MO": {
-  "grants30d": 74,
-  "lapses30d": 30,
-  "renewals60d": 101
+  "grants30d": 81,
+  "lapses30d": 32,
+  "renewals60d": 102
  },
  "MS": {
-  "grants30d": 61,
+  "grants30d": 60,
   "lapses30d": 28,
-  "renewals60d": 47
+  "renewals60d": 48
  },
  "MT": {
   "grants30d": 12,
-  "lapses30d": 4,
-  "renewals60d": 13
+  "lapses30d": 3,
+  "renewals60d": 14
  },
  "NC": {
-  "grants30d": 180,
-  "lapses30d": 93,
-  "renewals60d": 194
+  "grants30d": 182,
+  "lapses30d": 90,
+  "renewals60d": 202
  },
  "ND": {
-  "grants30d": 19,
-  "lapses30d": 11,
-  "renewals60d": 33
+  "grants30d": 20,
+  "lapses30d": 10,
+  "renewals60d": 34
  },
  "NE": {
-  "grants30d": 27,
-  "lapses30d": 13,
-  "renewals60d": 40
+  "grants30d": 28,
+  "lapses30d": 15,
+  "renewals60d": 42
  },
  "NH": {
-  "grants30d": 14,
+  "grants30d": 12,
   "lapses30d": 1,
-  "renewals60d": 11
+  "renewals60d": 12
  },
  "NJ": {
-  "grants30d": 182,
-  "lapses30d": 78,
-  "renewals60d": 180
+  "grants30d": 185,
+  "lapses30d": 84,
+  "renewals60d": 184
  },
  "NM": {
-  "grants30d": 26,
-  "lapses30d": 9,
+  "grants30d": 25,
+  "lapses30d": 8,
   "renewals60d": 27
  },
  "NV": {
-  "grants30d": 38,
-  "lapses30d": 20,
-  "renewals60d": 47
+  "grants30d": 39,
+  "lapses30d": 18,
+  "renewals60d": 48
  },
  "NY": {
-  "grants30d": 64,
-  "lapses30d": 47,
-  "renewals60d": 81
+  "grants30d": 67,
+  "lapses30d": 44,
+  "renewals60d": 84
  },
  "OH": {
-  "grants30d": 257,
-  "lapses30d": 125,
-  "renewals60d": 345
+  "grants30d": 263,
+  "lapses30d": 120,
+  "renewals60d": 353
  },
  "OK": {
-  "grants30d": 68,
-  "lapses30d": 34,
-  "renewals60d": 65
+  "grants30d": 67,
+  "lapses30d": 33,
+  "renewals60d": 67
  },
  "OR": {
   "grants30d": 42,
   "lapses30d": 18,
-  "renewals60d": 52
+  "renewals60d": 51
  },
  "PA": {
-  "grants30d": 286,
-  "lapses30d": 93,
-  "renewals60d": 318
+  "grants30d": 292,
+  "lapses30d": 89,
+  "renewals60d": 324
  },
  "RI": {
-  "grants30d": 16,
+  "grants30d": 17,
   "lapses30d": 2,
-  "renewals60d": 5
+  "renewals60d": 6
  },
  "SC": {
   "grants30d": 86,
-  "lapses30d": 46,
+  "lapses30d": 42,
   "renewals60d": 91
  },
  "SD": {
   "grants30d": 13,
-  "lapses30d": 7,
+  "lapses30d": 6,
   "renewals60d": 12
  },
  "TN": {
-  "grants30d": 90,
-  "lapses30d": 64,
-  "renewals60d": 80
+  "grants30d": 96,
+  "lapses30d": 61,
+  "renewals60d": 78
  },
  "TX": {
-  "grants30d": 607,
-  "lapses30d": 311,
-  "renewals60d": 804
+  "grants30d": 621,
+  "lapses30d": 309,
+  "renewals60d": 819
  },
  "UT": {
-  "grants30d": 39,
-  "lapses30d": 21,
-  "renewals60d": 61
+  "grants30d": 38,
+  "lapses30d": 19,
+  "renewals60d": 60
  },
  "VA": {
-  "grants30d": 95,
-  "lapses30d": 46,
-  "renewals60d": 82
+  "grants30d": 99,
+  "lapses30d": 49,
+  "renewals60d": 88
  },
  "VT": {
   "grants30d": 3,
   "lapses30d": 0,
-  "renewals60d": 4
+  "renewals60d": 5
  },
  "WA": {
   "grants30d": 85,
-  "lapses30d": 39,
-  "renewals60d": 128
+  "lapses30d": 38,
+  "renewals60d": 134
  },
  "WI": {
-  "grants30d": 49,
-  "lapses30d": 20,
-  "renewals60d": 81
+  "grants30d": 50,
+  "lapses30d": 21,
+  "renewals60d": 83
  },
  "WV": {
-  "grants30d": 17,
-  "lapses30d": 3,
-  "renewals60d": 10
+  "grants30d": 16,
+  "lapses30d": 4,
+  "renewals60d": 11
  },
  "WY": {
-  "grants30d": 16,
-  "lapses30d": 7,
-  "renewals60d": 11
+  "grants30d": 17,
+  "lapses30d": 8,
+  "renewals60d": 12
  }
 }

@@ -1,10 +1,10 @@
 {
- "file_date": "2026-11-13",
- "file_date_long": "November 13, 2026",
+ "file_date": "2026-11-14",
+ "file_date_long": "November 14, 2026",
  "national": {
-  "last30": 4984,
-  "last7": 999,
-  "yesterday": 94
+  "last30": 5065,
+  "last7": 1124,
+  "yesterday": 112
  },
  "states": {
   "AK": {
@@ -19,20 +19,30 @@
    "yesterday": 0
   },
   "AL": {
-   "lapses30d": 34,
-   "last30": 70,
-   "last7": 18,
+   "lapses30d": 32,
+   "last30": 74,
+   "last7": 22,
    "name": "Alabama",
-   "renewals60d": 57,
+   "renewals60d": 60,
    "sample": [
     {
-     "cargo": "General Freight; Motor Vehicles; Machinery (Large)",
-     "city": "Opp",
-     "email": "t\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
+     "cargo": "General Freight",
+     "city": "Waterloo",
+     "email": "j\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
      "insurer": "PROGRESSIVE SPECIALTY INS. CO.",
-     "name": "Tow The Line LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8474",
+     "name": "SECOND CREEK FARMS LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5921",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Mobile",
+     "email": "c\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "Great Plains Casualty, Inc.",
+     "name": "INTEGRITY WORLDWIDE LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1234",
      "trucks": "1"
     },
     {
@@ -46,38 +56,36 @@
      "trucks": "1"
     },
     {
-     "cargo": "General Freight; Motor Vehicles; Building Materials; Construction",
-     "city": "Birmingham",
-     "email": "d\u2022\u2022\u2022@kaizenhealthcaregroup.com",
-     "granted": "Nov 12, 2026",
+     "cargo": "General Freight; Motor Vehicles; Machinery (Large)",
+     "city": "Opp",
+     "email": "t\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 13, 2026",
      "insurer": "PROGRESSIVE SPECIALTY INS. CO.",
-     "name": "DDC Holdings LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6200",
+     "name": "Tow The Line LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8474",
      "trucks": "1"
     },
     {
-     "cargo": "General Freight; Household Goods; Logs/Poles/Beams; Machinery (Large); Livestock; Grain/Feed; Farm Supplies; Other",
-     "city": "Phil Campbell",
+     "cargo": "Logs/Poles/Beams",
+     "city": "Birmingham",
      "email": "t\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 12, 2026",
-     "insurer": "National Fire & Marine Insurance Company",
-     "name": "TASC FARM LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9493",
-     "trucks": "10"
-    },
-    {
-     "cargo": "General Freight; Motor Vehicles; Drive/Tow Vehicles",
-     "city": "Tuscaloosa",
-     "email": "S\u2022\u2022\u2022@OUTLOOK.COM",
-     "granted": "Nov 12, 2026",
+     "granted": "Nov 13, 2026",
      "insurer": "PROGRESSIVE SPECIALTY INS. CO.",
-     "name": "SC Transporting LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6296",
-     "trucks": "2"
+     "name": "Thomas Distribution LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2768",
+     "trucks": "8"
     }
    ],
    "slug": "alabama",
    "top_cities": [
+    [
+     "Mobile",
+     4
+    ],
+    [
+     "Birmingham",
+     4
+    ],
     [
      "Tuscaloosa",
      4
@@ -87,27 +95,29 @@
      4
     ],
     [
-     "Birmingham",
-     3
-    ],
-    [
      "Montgomery",
-     3
-    ],
-    [
-     "Cullman",
      3
     ]
    ],
    "yesterday": 2
   },
   "AR": {
-   "lapses30d": 27,
+   "lapses30d": 25,
    "last30": 36,
-   "last7": 2,
+   "last7": 3,
    "name": "Arkansas",
-   "renewals60d": 42,
+   "renewals60d": 43,
    "sample": [
+    {
+     "cargo": "General Freight",
+     "city": "Paragould",
+     "email": "j\u2022\u2022\u2022@shipfaulkner.com",
+     "granted": "Nov 13, 2026",
+     "insurer": "PROGRESSIVE NORTHWESTERN INS. CO.",
+     "name": "Faulkner Hauling Services LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2249",
+     "trucks": "2"
+    },
     {
      "cargo": "General Freight; Household Goods; Logs/Poles/Beams; Building Materials; Fresh Produce; Grain/Feed; Meat; Refrigerated Food; Beverages; Paper Products; Farm Supplies; Construction",
      "city": "Mountainview",
@@ -147,16 +157,6 @@
      "name": "Trimble Freight solutions",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9474",
      "trucks": "1"
-    },
-    {
-     "cargo": "Drive/Tow Vehicles; Other",
-     "city": "El Dorado",
-     "email": "m\u2022\u2022\u2022@outlook.com",
-     "granted": "Nov 5, 2026",
-     "insurer": "PROGRESSIVE NORTHWESTERN INS. CO.",
-     "name": "Mcmurrian Transport LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4103",
-     "trucks": "1"
     }
    ],
    "slug": "arkansas",
@@ -170,27 +170,57 @@
      2
     ],
     [
-     "El Dorado",
-     2
-    ],
-    [
      "Mena",
      2
     ],
     [
      "West Memphis",
      2
+    ],
+    [
+     "Hatfield",
+     2
     ]
    ],
    "yesterday": 0
   },
   "AZ": {
-   "lapses30d": 52,
-   "last30": 108,
-   "last7": 20,
+   "lapses30d": 51,
+   "last30": 109,
+   "last7": 19,
    "name": "Arizona",
-   "renewals60d": 89,
+   "renewals60d": 91,
    "sample": [
+    {
+     "cargo": "General Freight",
+     "city": "Tucson",
+     "email": "s\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
+     "name": "SUNTRAC LOGISTICS LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0826",
+     "trucks": "1"
+    },
+    {
+     "cargo": "",
+     "city": "Kingman",
+     "email": "j\u2022\u2022\u2022@icloud.com",
+     "granted": "Nov 13, 2026",
+     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
+     "name": "Cavender\u2019s Hauling & Transportation LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7149",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight; Fresh Produce",
+     "city": "Tucson",
+     "email": "x\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 13, 2026",
+     "insurer": "GEiCO Marine Insurance Company",
+     "name": "XY Queens Transport LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0904",
+     "trucks": "1"
+    },
     {
      "cargo": "Building Materials; Construction",
      "city": "Laveen Village",
@@ -210,47 +240,21 @@
      "name": "PRESTIGE MOVING LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9011",
      "trucks": "4"
-    },
-    {
-     "cargo": "General Freight; Building Materials; Intermodal Containers; Construction",
-     "city": "Buckeye",
-     "email": "l\u2022\u2022\u2022@yahoo.com",
-     "granted": "Nov 11, 2026",
-     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "lineaz",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6894",
-     "trucks": "1"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Peoria",
-     "email": "e\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 11, 2026",
-     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "exstyle transport LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7057",
-     "trucks": "1"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Avondale",
-     "email": "t\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 11, 2026",
-     "insurer": "Ascot Specialty Insurance Company",
-     "name": "Topline transportation LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3817",
-     "trucks": "1"
     }
    ],
    "slug": "arizona",
    "top_cities": [
     [
      "Phoenix",
-     16
+     15
     ],
     [
      "Glendale",
-     14
+     13
+    ],
+    [
+     "Tucson",
+     7
     ],
     [
      "Surprise",
@@ -259,69 +263,65 @@
     [
      "Yuma",
      7
-    ],
-    [
-     "Peoria",
-     6
     ]
    ],
    "yesterday": 1
   },
   "CA": {
-   "lapses30d": 290,
-   "last30": 490,
-   "last7": 88,
+   "lapses30d": 286,
+   "last30": 492,
+   "last7": 107,
    "name": "California",
-   "renewals60d": 1115,
+   "renewals60d": 1139,
    "sample": [
     {
-     "cargo": "General Freight; Building Materials; Construction; Other",
-     "city": "El Centro",
-     "email": "j\u2022\u2022\u2022@outlook.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "JACA TRANSPORT LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9080",
+     "cargo": "General Freight",
+     "city": "Chula Vista",
+     "email": "a\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "Commodore Risk Retention Group, Inc.",
+     "name": "AEFO TRUCKING INC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2355",
      "trucks": "2"
     },
     {
      "cargo": "General Freight",
-     "city": "Fontana",
-     "email": "s\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
+     "city": "Palmdale",
+     "email": "i\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
      "insurer": "Accredited Specialty Insurance Company",
-     "name": "SUMIT TRANSPORT INC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7400",
+     "name": "Iron Mile Express LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4015",
      "trucks": "1"
     },
     {
-     "cargo": "General Freight; Building Materials; Construction",
-     "city": "Madera",
-     "email": "j\u2022\u2022\u2022@yahoo.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "CarrierGuard Transportation Risk Retention Group, Inc.",
-     "name": "JOSIAH & DAMIAN TRANSPORTATION LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6229",
+     "cargo": "General Freight; Metal Sheets/Coils; Motor Vehicles; Logs/Poles/Beams; Building Materials; Machinery (Large); Fresh Produce; Intermodal Containers; Grain/Feed; Meat; Dry Bulk; Refrigerated Food; Beverages; Paper Products; Farm Supplies; Construction",
+     "city": "La Palma",
+     "email": "t\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "Universal Casualty Risk Retention Group, Inc",
+     "name": "TRANS-GRP INC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7782",
+     "trucks": "2"
+    },
+    {
+     "cargo": "General Freight; Fresh Produce; Meat; Refrigerated Food",
+     "city": "Delano",
+     "email": "a\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "Motor Transport Mutual Risk Retention Group, Inc.",
+     "name": "EDDIE ARCEO GARCIA",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3710",
      "trucks": "1"
     },
     {
      "cargo": "General Freight",
-     "city": "Pittsburg",
-     "email": "f\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "NATIONAL TRANSPORTATION INSURANCE COMPANY RISK RETENTION GROUP, LLC",
-     "name": "FORTRESS PRIDE TRUCKING LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9285",
-     "trucks": "1"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Keyes",
-     "email": "j\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "DB INSURANCE CO., LTD (U.S.BRANCH)",
-     "name": "JSD HAULING CORP",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8472",
+     "city": "Fresno",
+     "email": "b\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "A-One Commercial Insurance Risk Retention Group, Inc.",
+     "name": "BORDER EXPRESS INC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7417",
      "trucks": "1"
     }
    ],
@@ -329,7 +329,7 @@
    "top_cities": [
     [
      "Fresno",
-     53
+     52
     ],
     [
      "Sacramento",
@@ -337,35 +337,35 @@
     ],
     [
      "Bakersfield",
-     18
+     19
+    ],
+    [
+     "Manteca",
+     14
     ],
     [
      "Fontana",
-     13
-    ],
-    [
-     "Los Angeles",
-     13
+     14
     ]
    ],
-   "yesterday": 8
+   "yesterday": 12
   },
   "CO": {
-   "lapses30d": 34,
-   "last30": 71,
-   "last7": 16,
+   "lapses30d": 32,
+   "last30": 67,
+   "last7": 15,
    "name": "Colorado",
-   "renewals60d": 78,
+   "renewals60d": 82,
    "sample": [
     {
      "cargo": "General Freight",
-     "city": "Wiggins",
-     "email": "d\u2022\u2022\u2022@allthingsdone.co",
-     "granted": "Nov 13, 2026",
-     "insurer": "ARTISAN & TRUCKERS CASUALTY COMPANY",
-     "name": "ATD Services LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5183",
-     "trucks": "1"
+     "city": "Commerce City",
+     "email": "a\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
+     "name": "OMAR TRANSPORT INC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3762",
+     "trucks": "2"
     },
     {
      "cargo": "General Freight; Other",
@@ -378,13 +378,13 @@
      "trucks": "1"
     },
     {
-     "cargo": "",
-     "city": "Colorado Springs",
-     "email": "S\u2022\u2022\u2022@GMAIL.COM",
-     "granted": "Nov 12, 2026",
+     "cargo": "General Freight",
+     "city": "Wiggins",
+     "email": "d\u2022\u2022\u2022@allthingsdone.co",
+     "granted": "Nov 13, 2026",
      "insurer": "ARTISAN & TRUCKERS CASUALTY COMPANY",
-     "name": "Sullivans Profit and Loss LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1676",
+     "name": "ATD Services LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5183",
      "trucks": "1"
     },
     {
@@ -399,12 +399,12 @@
     },
     {
      "cargo": "General Freight",
-     "city": "Aurora",
-     "email": "Y\u2022\u2022\u2022@GMAIL.COM",
+     "city": "Denver",
+     "email": "e\u2022\u2022\u2022@gmail.com",
      "granted": "Nov 12, 2026",
      "insurer": "ARTISAN & TRUCKERS CASUALTY COMPANY",
-     "name": "Rockies LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9959",
+     "name": "L R TRANSPORT LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3224",
      "trucks": "1"
     }
    ],
@@ -416,7 +416,7 @@
     ],
     [
      "Colorado Springs",
-     11
+     9
     ],
     [
      "Denver",
@@ -424,22 +424,52 @@
     ],
     [
      "Thornton",
-     5
+     4
     ],
     [
      "Fort Morgan",
      4
     ]
    ],
-   "yesterday": 2
+   "yesterday": 1
   },
   "CT": {
-   "lapses30d": 13,
-   "last30": 51,
-   "last7": 10,
+   "lapses30d": 12,
+   "last30": 53,
+   "last7": 13,
    "name": "Connecticut",
-   "renewals60d": 39,
+   "renewals60d": 43,
    "sample": [
+    {
+     "cargo": "Building Materials; Construction",
+     "city": "Harwinton",
+     "email": "t\u2022\u2022\u2022@outook.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "Great West Casualty Co",
+     "name": "Two Goldens Trucking LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6598",
+     "trucks": "2"
+    },
+    {
+     "cargo": "Motor Vehicles",
+     "city": "South Windsor",
+     "email": "r\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
+     "name": "RJ TOWING AND RECOVERY LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2552",
+     "trucks": "1"
+    },
+    {
+     "cargo": "Logs/Poles/Beams; Beverages; Paper Products",
+     "city": "Glastonbury",
+     "email": "e\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "GEICO GENERAL INSURANCE COMPANY",
+     "name": "AnTony's Delivery Services LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9823",
+     "trucks": "1"
+    },
     {
      "cargo": "General Freight; Logs/Poles/Beams; Building Materials; Mobile Homes; Machinery (Large); Grain/Feed; Utilities; Farm Supplies; Construction; Other",
      "city": "Marlborough",
@@ -459,36 +489,6 @@
      "name": "Mariusz Klecha",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8655",
      "trucks": "2"
-    },
-    {
-     "cargo": "",
-     "city": "Vernon",
-     "email": "s\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 12, 2026",
-     "insurer": "National Indemnity Company",
-     "name": "SHAFIQ PARVEZ DBA SHAFIQ LIVERY SERVICE",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3855",
-     "trucks": "1"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "East Hartford",
-     "email": "p\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 11, 2026",
-     "insurer": "Progressive Casualty Insurance Company",
-     "name": "Precision Route Logistics",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7239",
-     "trucks": "2"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "East Hartford",
-     "email": "b\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 10, 2026",
-     "insurer": "GEiCO Marine Insurance Company",
-     "name": "Blue hen fleet services LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4232",
-     "trucks": "2"
     }
    ],
    "slug": "connecticut",
@@ -506,23 +506,33 @@
      3
     ],
     [
-     "New Haven",
+     "Stamford",
      3
     ],
     [
-     "Stamford",
+     "New Haven",
      3
     ]
    ],
-   "yesterday": 2
+   "yesterday": 3
   },
   "DE": {
-   "lapses30d": 15,
+   "lapses30d": 16,
    "last30": 16,
    "last7": 1,
    "name": "Delaware",
-   "renewals60d": 12,
+   "renewals60d": 13,
    "sample": [
+    {
+     "cargo": "General Freight",
+     "city": "Bear",
+     "email": "s\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
+     "name": "Suhan Logistics LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0016",
+     "trucks": "1"
+    },
     {
      "cargo": "General Freight",
      "city": "Hockessin",
@@ -562,16 +572,6 @@
      "name": "AOJ ENTERPRISES LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2625",
      "trucks": "2"
-    },
-    {
-     "cargo": "Building Materials; Construction; Other",
-     "city": "Newark",
-     "email": "a\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 1, 2026",
-     "insurer": "United Farm Family Insurance Company",
-     "name": "APEXX ENTERPRISES INC.",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1586",
-     "trucks": "1"
     }
    ],
    "slug": "delaware",
@@ -581,11 +581,11 @@
      4
     ],
     [
-     "Smyrna",
+     "Bear",
      2
     ],
     [
-     "Millsboro",
+     "Smyrna",
      2
     ],
     [
@@ -597,63 +597,63 @@
      1
     ]
    ],
-   "yesterday": 0
+   "yesterday": 1
   },
   "FL": {
-   "lapses30d": 202,
-   "last30": 389,
-   "last7": 84,
+   "lapses30d": 199,
+   "last30": 398,
+   "last7": 85,
    "name": "Florida",
-   "renewals60d": 417,
+   "renewals60d": 431,
    "sample": [
     {
      "cargo": "General Freight",
-     "city": "Lake Butler",
-     "email": "i\u2022\u2022\u2022@ktcarex.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "GEiCO Marine Insurance Company",
-     "name": "KTCAREX LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7764",
+     "city": "Jacksonville",
+     "email": "j\u2022\u2022\u2022@yahoo.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "PROGRESSIVE EXPRESS INSURANCE COMPANY",
+     "name": "JMLT Logistics LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0351",
+     "trucks": "2"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Port St Lucie",
+     "email": "u\u2022\u2022\u2022@yahoo.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "Canal Insurance Company",
+     "name": "UNIVERSAL FREIGHT GLOBAL LOGISTICS INC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8056",
+     "trucks": "4"
+    },
+    {
+     "cargo": "",
+     "city": "Miami",
+     "email": "i\u2022\u2022\u2022@mcubedadventures.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "PROGRESSIVE EXPRESS INSURANCE COMPANY",
+     "name": "M Cubed Adventures LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8143",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight; Motor Vehicles; Drive/Tow Vehicles; Other",
+     "city": "Cape Coral",
+     "email": "q\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "Brooklyn Specialty Insurance Co. RRG, Inc.",
+     "name": "QUEEN ONE TRUCKING LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6216",
      "trucks": "1"
     },
     {
      "cargo": "General Freight; Other",
-     "city": "Miramar",
-     "email": "a\u2022\u2022\u2022@yahoo.com",
+     "city": "Orlando",
+     "email": "g\u2022\u2022\u2022@gmail.com",
      "granted": "Nov 13, 2026",
-     "insurer": "PROGRESSIVE EXPRESS INSURANCE COMPANY",
-     "name": "AL DELIVERIES LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5382",
-     "trucks": "1"
-    },
-    {
-     "cargo": "Building Materials; Construction",
-     "city": "Port St Lucie",
-     "email": "p\u2022\u2022\u2022@yahoo.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "GEiCO Marine Insurance Company",
-     "name": "PSM LOGISTICS LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0510",
-     "trucks": "1"
-    },
-    {
-     "cargo": "General Freight; Building Materials; Construction",
-     "city": "Lehigh Acres",
-     "email": "s\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "COUNTY HALL INSURANCE COMPANY INC.,  A RISK RETENTION GROUP",
-     "name": "SOUGOULOU TRANSPORTATION LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8026",
-     "trucks": "1"
-    },
-    {
-     "cargo": "Metal Sheets/Coils; Motor Vehicles; Logs/Poles/Beams; Building Materials; Machinery (Large); Construction",
-     "city": "Bartow",
-     "email": "r\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "PROGRESSIVE EXPRESS INSURANCE COMPANY",
-     "name": "Roman Around Transporting LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5954",
+     "insurer": "Benchmark Specialty Insurance Company",
+     "name": "GM TRANSPORTS USA LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0749",
      "trucks": "1"
     }
    ],
@@ -661,90 +661,90 @@
    "top_cities": [
     [
      "Miami",
-     36
+     38
     ],
     [
      "Orlando",
-     32
+     33
     ],
     [
      "Jacksonville",
-     19
+     20
     ],
     [
      "Hialeah",
-     13
+     14
     ],
     [
      "Kissimmee",
      13
     ]
    ],
-   "yesterday": 7
+   "yesterday": 4
   },
   "GA": {
-   "lapses30d": 115,
-   "last30": 210,
-   "last7": 39,
+   "lapses30d": 110,
+   "last30": 220,
+   "last7": 50,
    "name": "Georgia",
-   "renewals60d": 205,
+   "renewals60d": 207,
    "sample": [
     {
+     "cargo": "Building Materials; Construction",
+     "city": "Douglas",
+     "email": "g\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "PROGRESSIVE MOUNTAIN INSURANCE COMPANY OF OHIO",
+     "name": "Windwood Hauling LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5983",
+     "trucks": "1"
+    },
+    {
      "cargo": "General Freight",
-     "city": "Snellville",
-     "email": "1\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "Universal Casualty Risk Retention Group, Inc",
-     "name": "180 RCD SOLUTIONS LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1985",
+     "city": "Midland",
+     "email": "d\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "PROGRESSIVE MOUNTAIN INSURANCE COMPANY OF OHIO",
+     "name": "BETHSAIDA XPRESS LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2929",
      "trucks": "1"
     },
     {
      "cargo": "General Freight",
-     "city": "Atlanta",
-     "email": "i\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "PROGRESSIVE MOUNTAIN INSURANCE COMPANY OF OHIO",
-     "name": "IAH Enterprises LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1019",
+     "city": "Augusta",
+     "email": "c\u2022\u2022\u2022@cdlogisticsllc.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "Canal Insurance Company",
+     "name": "CDX Logistics LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3509",
      "trucks": "1"
     },
     {
-     "cargo": "General Freight; Metal Sheets/Coils; Drive/Tow Vehicles; Logs/Poles/Beams; Building Materials; Fresh Produce; Intermodal Containers; Grain/Feed; Meat; Chemicals; Dry Bulk; Refrigerated Food; Beverages; Paper Products; Utilities; Construction",
-     "city": "Hiram",
-     "email": "o\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "GEiCO Marine Insurance Company",
-     "name": "DANO TRANSPORTATION LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6645",
-     "trucks": "1"
+     "cargo": "General Freight; Household Goods; Metal Sheets/Coils; Farm Supplies",
+     "city": "Sandy Springs",
+     "email": "x\u2022\u2022\u2022@qualchem.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "PROGRESSIVE MOUNTAIN INSURANCE COMPANY OF OHIO",
+     "name": "QUALCHEM, INC.",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7777",
+     "trucks": "3"
     },
     {
-     "cargo": "General Freight; Other",
-     "city": "Pooler",
-     "email": "i\u2022\u2022\u2022@icloud.com",
-     "granted": "Nov 13, 2026",
+     "cargo": "General Freight",
+     "city": "Toccoa",
+     "email": "l\u2022\u2022\u2022@yahoo.com",
+     "granted": "Nov 14, 2026",
      "insurer": "PROGRESSIVE MOUNTAIN INSURANCE COMPANY OF OHIO",
-     "name": "Iron Ox Hauling LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2025",
+     "name": "On the Go Expeditors LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0845",
      "trucks": "1"
-    },
-    {
-     "cargo": "General Freight; Other",
-     "city": "Waycross",
-     "email": "a\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 12, 2026",
-     "insurer": "PROGRESSIVE MOUNTAIN INSURANCE COMPANY OF OHIO",
-     "name": "ACT CO. LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6525",
-     "trucks": "2"
     }
    ],
    "slug": "georgia",
    "top_cities": [
     [
      "Atlanta",
-     23
+     22
     ],
     [
      "Lawrenceville",
@@ -755,15 +755,15 @@
      7
     ],
     [
-     "Stone Mountain",
+     "Lithonia",
      7
     ],
     [
-     "Lithonia",
-     5
+     "Stone Mountain",
+     7
     ]
    ],
-   "yesterday": 4
+   "yesterday": 6
   },
   "HI": {
    "lapses30d": 0,
@@ -777,20 +777,30 @@
    "yesterday": 0
   },
   "IA": {
-   "lapses30d": 23,
-   "last30": 50,
-   "last7": 10,
+   "lapses30d": 22,
+   "last30": 49,
+   "last7": 11,
    "name": "Iowa",
-   "renewals60d": 59,
+   "renewals60d": 62,
    "sample": [
     {
-     "cargo": "General Freight; Motor Vehicles",
-     "city": "West Des Moines",
-     "email": "b\u2022\u2022\u2022@gmail.com",
+     "cargo": "General Freight; Other",
+     "city": "Osceola",
+     "email": "s\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "GEiCO Marine Insurance Company",
+     "name": "SANTOS PRIME LOGISTICS LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2662",
+     "trucks": "2"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Altoona",
+     "email": "T\u2022\u2022\u2022@GMAIL.COM",
      "granted": "Nov 13, 2026",
      "insurer": "PROGRESSIVE NORTHERN INSURANCE COMPANY",
-     "name": "BLACKROCK7 CORP",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9672",
+     "name": "E & E LOGISTICS LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9131",
      "trucks": "1"
     },
     {
@@ -804,44 +814,34 @@
      "trucks": "2"
     },
     {
-     "cargo": "Livestock; Other",
-     "city": "Sully",
-     "email": "k\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 12, 2026",
-     "insurer": "ACUITY, A MUTUAL INSURANCE COMPANY",
-     "name": "KILLDUFF TRANSPORT INC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4575",
-     "trucks": "3"
-    },
-    {
-     "cargo": "Drive/Tow Vehicles",
-     "city": "Clinton",
-     "email": "r\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 12, 2026",
-     "insurer": "Pioneer Specialty Insurance Company",
-     "name": "River Cities Consolidated LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4775",
-     "trucks": "7"
-    },
-    {
-     "cargo": "General Freight; Livestock; Grain/Feed; Other",
-     "city": "Schaller",
-     "email": "u\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 10, 2026",
+     "cargo": "General Freight; Motor Vehicles",
+     "city": "West Des Moines",
+     "email": "b\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 13, 2026",
      "insurer": "PROGRESSIVE NORTHERN INSURANCE COMPANY",
-     "name": "E & R TRANSPORT LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9224",
+     "name": "BLACKROCK7 CORP",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9672",
+     "trucks": "1"
+    },
+    {
+     "cargo": "Metal Sheets/Coils; Other",
+     "city": "Saint Ansgar",
+     "email": "j\u2022\u2022\u2022@woldinc.com",
+     "granted": "Nov 13, 2026",
+     "insurer": "Addison Insurance Company",
+     "name": "Wold Acquisition Company LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2205",
      "trucks": "2"
     }
    ],
    "slug": "iowa",
    "top_cities": [
     [
-     "Des Moines",
-     4
+     "West Des Moines",
+     3
     ],
     [
-     "West Des Moines",
+     "Des Moines",
      3
     ],
     [
@@ -857,14 +857,14 @@
      2
     ]
    ],
-   "yesterday": 2
+   "yesterday": 1
   },
   "ID": {
-   "lapses30d": 10,
+   "lapses30d": 11,
    "last30": 26,
-   "last7": 4,
+   "last7": 3,
    "name": "Idaho",
-   "renewals60d": 34,
+   "renewals60d": 32,
    "sample": [
     {
      "cargo": "Fresh Produce; Meat; Refrigerated Food; Beverages; Paper Products",
@@ -907,14 +907,14 @@
      "trucks": "2"
     },
     {
-     "cargo": "Liquids/Gases",
-     "city": "Saint Maries",
-     "email": "a\u2022\u2022\u2022@stjoeoil.com",
+     "cargo": "General Freight",
+     "city": "Saint Anthony",
+     "email": "t\u2022\u2022\u2022@gmail.com",
      "granted": "Nov 6, 2026",
-     "insurer": "Federated Reserve Insurance Company",
-     "name": "SUMNER VENTURES LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2341",
-     "trucks": "2"
+     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
+     "name": "Tamarack Transport, LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1670",
+     "trucks": "1"
     }
    ],
    "slug": "idaho",
@@ -932,71 +932,71 @@
      2
     ],
     [
-     "Jerome",
+     "Post Falls",
      2
     ],
     [
-     "Post Falls",
+     "Jerome",
      2
     ]
    ],
-   "yesterday": 1
+   "yesterday": 0
   },
   "IL": {
-   "lapses30d": 126,
-   "last30": 365,
-   "last7": 81,
+   "lapses30d": 119,
+   "last30": 375,
+   "last7": 87,
    "name": "Illinois",
-   "renewals60d": 490,
+   "renewals60d": 499,
    "sample": [
     {
      "cargo": "",
-     "city": "Plainfield",
-     "email": "a\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "Northland Insurance Company",
-     "name": "ALCALA TRANSPORT INC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0041",
+     "city": "Rockford",
+     "email": "C\u2022\u2022\u2022@GMAIL.COM",
+     "granted": "Nov 14, 2026",
+     "insurer": "ARTISAN & TRUCKERS CASUALTY COMPANY",
+     "name": "Cazador Logistics LLc",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3183",
      "trucks": "1"
     },
     {
-     "cargo": "General Freight; Household Goods; Other",
-     "city": "Aurora",
-     "email": "l\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
+     "cargo": "General Freight",
+     "city": "Schaumburg",
+     "email": "a\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
      "insurer": "ARTISAN & TRUCKERS CASUALTY COMPANY",
-     "name": "lifeinhim1",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9058",
+     "name": "AZAROV WD INC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8259",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight; Household Goods; Building Materials; Intermodal Containers; Garbage/Refuse; Construction",
+     "city": "University Park",
+     "email": "t\u2022\u2022\u2022@icloud.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "ARTISAN & TRUCKERS CASUALTY COMPANY",
+     "name": "JayceForward Logistics LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6728",
      "trucks": "2"
     },
     {
      "cargo": "General Freight",
-     "city": "Des Plaines",
-     "email": "d\u2022\u2022\u2022@yahoo.com",
-     "granted": "Nov 13, 2026",
+     "city": "Matteson",
+     "email": "M\u2022\u2022\u2022@GMAIL.COM",
+     "granted": "Nov 14, 2026",
      "insurer": "ARTISAN & TRUCKERS CASUALTY COMPANY",
-     "name": "Daniel nardo",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7445",
+     "name": "MP0830 Trucking LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6884",
      "trucks": "1"
     },
     {
-     "cargo": "General Freight; Metal Sheets/Coils; Motor Vehicles; Building Materials; Machinery (Large); Farm Supplies; Construction; Other",
-     "city": "Hoffman Estates",
-     "email": "y\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "Corgi Insurance Company, Inc.",
-     "name": "Yazitrans Inc",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1239",
-     "trucks": "1"
-    },
-    {
-     "cargo": "General Freight; Household Goods",
-     "city": "Bolingbrook",
-     "email": "j\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "GEiCO Marine Insurance Company",
-     "name": "JAMC DELIVERY LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5051",
+     "cargo": "General Freight",
+     "city": "Lynwood",
+     "email": "g\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "ARTISAN & TRUCKERS CASUALTY COMPANY",
+     "name": "GS RUSH LOGISTICS LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2768",
      "trucks": "1"
     }
    ],
@@ -1004,11 +1004,11 @@
    "top_cities": [
     [
      "Chicago",
-     58
+     57
     ],
     [
      "Aurora",
-     15
+     14
     ],
     [
      "Mount Prospect",
@@ -1016,31 +1016,51 @@
     ],
     [
      "Des Plaines",
-     11
+     12
     ],
     [
      "Schaumburg",
-     9
+     10
     ]
    ],
    "yesterday": 5
   },
   "IN": {
-   "lapses30d": 68,
-   "last30": 124,
-   "last7": 19,
+   "lapses30d": 71,
+   "last30": 120,
+   "last7": 20,
    "name": "Indiana",
-   "renewals60d": 191,
+   "renewals60d": 192,
    "sample": [
     {
-     "cargo": "",
-     "city": "Angola",
-     "email": "m\u2022\u2022\u2022@gmail.com",
+     "cargo": "General Freight; Household Goods",
+     "city": "Madison",
+     "email": "j\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "Berkshire Hathaway Direct Insurance Company",
+     "name": "Jot sales and merchandise llc",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5753",
+     "trucks": "2"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Jeffersonville",
+     "email": "e\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "PROGRESSIVE SOUTHEASTERN INSURANCE COMPANY",
+     "name": "L&C Express Logistics LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4365",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Hammond",
+     "email": "i\u2022\u2022\u2022@3mtransportation.com",
      "granted": "Nov 13, 2026",
-     "insurer": "First Guard Insurance Company",
-     "name": "MST TRANSPORT,LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3939",
-     "trucks": "3"
+     "insurer": "PROGRESSIVE SOUTHEASTERN INSURANCE COMPANY",
+     "name": "3M Transportation LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6837",
+     "trucks": "0"
     },
     {
      "cargo": "General Freight",
@@ -1053,41 +1073,21 @@
      "trucks": "1"
     },
     {
-     "cargo": "General Freight",
-     "city": "Indianapolis",
+     "cargo": "",
+     "city": "Angola",
      "email": "m\u2022\u2022\u2022@gmail.com",
      "granted": "Nov 13, 2026",
-     "insurer": "PROGRESSIVE SOUTHEASTERN INSURANCE COMPANY",
-     "name": "Beasley's Next Level Transportation LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0053",
-     "trucks": "1"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Fort Wayne",
-     "email": "n\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 12, 2026",
-     "insurer": "PROGRESSIVE SOUTHEASTERN INSURANCE COMPANY",
-     "name": "NAS TRANSIT LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4251",
-     "trucks": "1"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Columbus",
-     "email": "s\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 10, 2026",
-     "insurer": "GEiCO Marine Insurance Company",
-     "name": "SHEPHA ELITE TRANSPORTATION LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9196",
-     "trucks": "2"
+     "insurer": "First Guard Insurance Company",
+     "name": "MST TRANSPORT,LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3939",
+     "trucks": "3"
     }
    ],
    "slug": "indiana",
    "top_cities": [
     [
      "Indianapolis",
-     50
+     48
     ],
     [
      "Fort Wayne",
@@ -1098,7 +1098,7 @@
      5
     ],
     [
-     "New Albany",
+     "Avon",
      3
     ],
     [
@@ -1106,15 +1106,35 @@
      3
     ]
    ],
-   "yesterday": 3
+   "yesterday": 2
   },
   "KS": {
-   "lapses30d": 10,
-   "last30": 41,
+   "lapses30d": 11,
+   "last30": 40,
    "last7": 8,
    "name": "Kansas",
-   "renewals60d": 64,
+   "renewals60d": 66,
    "sample": [
+    {
+     "cargo": "Grain/Feed",
+     "city": "Wichita",
+     "email": "a\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "Great West Casualty Co",
+     "name": "KANSAS LOGISTICS LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5842",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight; Building Materials; Construction; Other",
+     "city": "Shawnee",
+     "email": "c\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
+     "name": "CELTIC CONCRETE LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9193",
+     "trucks": "4"
+    },
     {
      "cargo": "Grain/Feed; Farm Supplies",
      "city": "Sublette",
@@ -1136,16 +1156,6 @@
      "trucks": "2"
     },
     {
-     "cargo": "General Freight; Household Goods",
-     "city": "Newton",
-     "email": "p\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 10, 2026",
-     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "PINNACLE RELOCATION SERVICES LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1069",
-     "trucks": "1"
-    },
-    {
      "cargo": "General Freight",
      "city": "Overland Park",
      "email": "c\u2022\u2022\u2022@gmail.com",
@@ -1154,16 +1164,6 @@
      "name": "CAPITAN CENTELLA LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5741",
      "trucks": "1"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Overland Park",
-     "email": "c\u2022\u2022\u2022@icloud.com",
-     "granted": "Nov 9, 2026",
-     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "vectorhaul LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2706",
-     "trucks": "0"
     }
    ],
    "slug": "kansas",
@@ -1171,6 +1171,10 @@
     [
      "Wichita",
      8
+    ],
+    [
+     "Shawnee",
+     3
     ],
     [
      "Olathe",
@@ -1181,23 +1185,39 @@
      2
     ],
     [
-     "Shawnee",
-     2
-    ],
-    [
-     "Newton",
+     "Overland Park",
      2
     ]
    ],
-   "yesterday": 0
+   "yesterday": 2
   },
   "KY": {
-   "lapses30d": 13,
-   "last30": 60,
-   "last7": 14,
+   "lapses30d": 14,
+   "last30": 61,
+   "last7": 17,
    "name": "Kentucky",
-   "renewals60d": 71,
+   "renewals60d": 75,
    "sample": [
+    {
+     "cargo": "General Freight",
+     "city": "Sonora",
+     "email": "s\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
+     "name": "S&K LOGISTICS LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9854",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Louisville",
+     "email": "h\u2022\u2022\u2022@yahoo.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "Bulldog National Risk Retention Group, Inc.",
+     "name": "Highway Horse Transport LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8187",
+     "trucks": "1"
+    },
     {
      "cargo": "Building Materials; Construction; Other",
      "city": "West Liberty",
@@ -1219,49 +1239,29 @@
      "trucks": "1"
     },
     {
-     "cargo": "General Freight; Other",
-     "city": "Bowling Green",
-     "email": "K\u2022\u2022\u2022@GMAIL.COM",
-     "granted": "Nov 12, 2026",
-     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "KLD TRANSPORT LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5382",
+     "cargo": "General Freight",
+     "city": "Lexington",
+     "email": "b\u2022\u2022\u2022@brownbox1.net",
+     "granted": "Nov 13, 2026",
+     "insurer": "Corgi Insurance Company, Inc.",
+     "name": "Brown Box LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9550",
      "trucks": "2"
-    },
-    {
-     "cargo": "General Freight; Metal Sheets/Coils; Motor Vehicles; Drive/Tow Vehicles; Logs/Poles/Beams; Building Materials; Mobile Homes; Machinery (Large); Grain/Feed; Farm Supplies; Construction; Other",
-     "city": "Salvisa",
-     "email": "d\u2022\u2022\u2022@yahoo.com",
-     "granted": "Nov 12, 2026",
-     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "G&D TOWING AND HAULING",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2299",
-     "trucks": "1"
-    },
-    {
-     "cargo": "",
-     "city": "Union",
-     "email": "l\u2022\u2022\u2022@max-hamilton.com",
-     "granted": "Nov 12, 2026",
-     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "Max-Hamilton Company",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1570",
-     "trucks": "1"
     }
    ],
    "slug": "kentucky",
    "top_cities": [
     [
      "Louisville",
-     18
+     19
     ],
     [
      "Lexington",
-     5
+     6
     ],
     [
      "Bowling Green",
-     4
+     3
     ],
     [
      "West Liberty",
@@ -1275,8 +1275,8 @@
    "yesterday": 2
   },
   "LA": {
-   "lapses30d": 18,
-   "last30": 24,
+   "lapses30d": 17,
+   "last30": 23,
    "last7": 4,
    "name": "Louisiana",
    "renewals60d": 30,
@@ -1292,6 +1292,16 @@
      "trucks": "1"
     },
     {
+     "cargo": "General Freight",
+     "city": "Hammond",
+     "email": "m\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 10, 2026",
+     "insurer": "BLUE HILL SPECIALTY INSURANCE COMPANY INC",
+     "name": "McGee Legacy Logistics LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2824",
+     "trucks": "2"
+    },
+    {
      "cargo": "General Freight; Intermodal Containers; Dry Bulk",
      "city": "Kelly",
      "email": "e\u2022\u2022\u2022@gmail.com",
@@ -1303,23 +1313,13 @@
     },
     {
      "cargo": "General Freight",
-     "city": "Hammond",
-     "email": "m\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 10, 2026",
-     "insurer": "BLUE HILL SPECIALTY INSURANCE COMPANY INC",
-     "name": "McGee Legacy Logistics LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2824",
-     "trucks": "2"
-    },
-    {
-     "cargo": "General Freight",
      "city": "Tallulah",
      "email": "r\u2022\u2022\u2022@yahoo.com",
      "granted": "Nov 9, 2026",
      "insurer": "BLUE HILL SPECIALTY INSURANCE COMPANY INC",
      "name": "Melarty Logistics LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2242",
-     "trucks": "4"
+     "trucks": "2"
     },
     {
      "cargo": "Building Materials; Dry Bulk; Construction",
@@ -1335,15 +1335,15 @@
    "slug": "louisiana",
    "top_cities": [
     [
-     "Baton Rouge",
-     3
-    ],
-    [
      "New Orleans",
      2
     ],
     [
      "Marrero",
+     2
+    ],
+    [
+     "Baton Rouge",
      2
     ],
     [
@@ -1358,12 +1358,22 @@
    "yesterday": 0
   },
   "MA": {
-   "lapses30d": 24,
-   "last30": 57,
-   "last7": 8,
+   "lapses30d": 23,
+   "last30": 56,
+   "last7": 9,
    "name": "Massachusetts",
-   "renewals60d": 42,
+   "renewals60d": 45,
    "sample": [
+    {
+     "cargo": "General Freight",
+     "city": "Lawrence",
+     "email": "p\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 13, 2026",
+     "insurer": "Progressive Casualty Insurance Company",
+     "name": "R AND G TRANSPORT CORP",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6314",
+     "trucks": "2"
+    },
     {
      "cargo": "General Freight",
      "city": "Brockton",
@@ -1403,34 +1413,24 @@
      "name": "L Franco Transport LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0757",
      "trucks": "1"
-    },
-    {
-     "cargo": "General Freight; Household Goods",
-     "city": "Medford",
-     "email": "h\u2022\u2022\u2022@transservicesllc.com",
-     "granted": "Nov 9, 2026",
-     "insurer": "Progressive Casualty Insurance Company",
-     "name": "H&B Trans Services LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9151",
-     "trucks": "1"
     }
    ],
    "slug": "massachusetts",
    "top_cities": [
     [
-     "Springfield",
+     "Lawrence",
      4
     ],
     [
-     "Medford",
-     3
+     "Springfield",
+     4
     ],
     [
      "Worcester",
      3
     ],
     [
-     "Lawrence",
+     "Medford",
      3
     ],
     [
@@ -1441,16 +1441,46 @@
    "yesterday": 0
   },
   "MD": {
-   "lapses30d": 45,
-   "last30": 96,
-   "last7": 19,
+   "lapses30d": 44,
+   "last30": 98,
+   "last7": 22,
    "name": "Maryland",
-   "renewals60d": 76,
+   "renewals60d": 79,
    "sample": [
     {
      "cargo": "General Freight",
+     "city": "Abingdon",
+     "email": "e\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "Berkshire Hathaway Direct Insurance Company",
+     "name": "EZ Upstate Logistics LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2102",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Elkridge",
+     "email": "a\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 13, 2026",
+     "insurer": "Progressive Casualty Insurance Company",
+     "name": "APPA LOGISTICS LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8408",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Baltimore",
+     "email": "s\u2022\u2022\u2022@henryandhenry.org",
+     "granted": "Nov 13, 2026",
+     "insurer": "Agency Insurance Company of Maryland, Inc",
+     "name": "Henry and Henry LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8721",
+     "trucks": "3"
+    },
+    {
+     "cargo": "General Freight",
      "city": "Glen Burnie",
-     "email": "R\u2022\u2022\u2022@GMAIL.COM",
+     "email": "r\u2022\u2022\u2022@gmail.com",
      "granted": "Nov 13, 2026",
      "insurer": "Agency Insurance Company of Maryland, Inc",
      "name": "Road Point Logistics LLC",
@@ -1458,51 +1488,21 @@
      "trucks": "1"
     },
     {
-     "cargo": "General Freight; Building Materials; Machinery (Large); Construction",
-     "city": "Bowie",
-     "email": "m\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 12, 2026",
-     "insurer": "Agency Insurance Company of Maryland, Inc",
-     "name": "MTA Transportation LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7040",
-     "trucks": "1"
-    },
-    {
-     "cargo": "Passengers",
-     "city": "Capitol Heights",
-     "email": "c\u2022\u2022\u2022@oui-luxury.com",
-     "granted": "Nov 12, 2026",
-     "insurer": "Prime Insurance Company",
-     "name": "OUILUXURY LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9334",
-     "trucks": "4"
-    },
-    {
-     "cargo": "Motor Vehicles; Other",
-     "city": "Columbia",
-     "email": "A\u2022\u2022\u2022@GMAIL.COM",
-     "granted": "Nov 12, 2026",
+     "cargo": "General Freight; Fresh Produce; Grain/Feed; Meat; Refrigerated Food; Beverages",
+     "city": "Laurel",
+     "email": "i\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 13, 2026",
      "insurer": "Progressive Casualty Insurance Company",
-     "name": "Alsubhi Transport LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9516",
+     "name": "Expedite Logistics LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4951",
      "trucks": "1"
-    },
-    {
-     "cargo": "General Freight; Household Goods; Metal Sheets/Coils; Motor Vehicles; Drive/Tow Vehicles; Logs/Poles/Beams; Building Materials; Machinery (Large); Fresh Produce; Intermodal Containers; Meat; U.S. Mail; Dry Bulk; Refrigerated Food; Utilities; Farm Supplies; Construction; Other",
-     "city": "Glen Burnie",
-     "email": "k\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 12, 2026",
-     "insurer": "Agency Insurance Company of Maryland, Inc",
-     "name": "FREIGHT RUNNERS LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9724",
-     "trucks": "2"
     }
    ],
    "slug": "maryland",
    "top_cities": [
     [
      "Baltimore",
-     9
+     10
     ],
     [
      "Silver Spring",
@@ -1513,12 +1513,12 @@
      4
     ],
     [
-     "Germantown",
+     "Laurel",
      4
     ],
     [
-     "Capitol Heights",
-     3
+     "Germantown",
+     4
     ]
    ],
    "yesterday": 1
@@ -1528,18 +1528,8 @@
    "last30": 11,
    "last7": 6,
    "name": "Maine",
-   "renewals60d": 10,
+   "renewals60d": 7,
    "sample": [
-    {
-     "cargo": "General Freight",
-     "city": "Lisbon",
-     "email": "f\u2022\u2022\u2022@outlook.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "CorePointe Insurance Company",
-     "name": "Fraser & Sons LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1299",
-     "trucks": "2"
-    },
     {
      "cargo": "General Freight",
      "city": "South China",
@@ -1549,6 +1539,16 @@
      "name": "Mighty Quinn Zoom delivery LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1333",
      "trucks": "1"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Lisbon",
+     "email": "f\u2022\u2022\u2022@outlook.com",
+     "granted": "Nov 13, 2026",
+     "insurer": "CorePointe Insurance Company",
+     "name": "Fraser & Sons LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1299",
+     "trucks": "2"
     },
     {
      "cargo": "General Freight; Other",
@@ -1604,15 +1604,55 @@
      1
     ]
    ],
-   "yesterday": 2
+   "yesterday": 0
   },
   "MI": {
-   "lapses30d": 47,
-   "last30": 115,
-   "last7": 29,
+   "lapses30d": 46,
+   "last30": 119,
+   "last7": 28,
    "name": "Michigan",
-   "renewals60d": 129,
+   "renewals60d": 139,
    "sample": [
+    {
+     "cargo": "General Freight",
+     "city": "Westland",
+     "email": "n\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "PROGRESSIVE MICHIGAN INSURANCE COMPANY",
+     "name": "NNDE LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7830",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Dearborn",
+     "email": "a\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "PROGRESSIVE MICHIGAN INSURANCE COMPANY",
+     "name": "UNITED AMERICAN EXPRESS LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0004",
+     "trucks": "1"
+    },
+    {
+     "cargo": "",
+     "city": "Detroit",
+     "email": "f\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 13, 2026",
+     "insurer": "Great West Casualty Co",
+     "name": "Motor City Freight, LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6682",
+     "trucks": "0"
+    },
+    {
+     "cargo": "General Freight; Grain/Feed; Farm Supplies",
+     "city": "Pierson",
+     "email": "t\u2022\u2022\u2022@icloud.com",
+     "granted": "Nov 13, 2026",
+     "insurer": "PROGRESSIVE MICHIGAN INSURANCE COMPANY",
+     "name": "Tim\u2019s Trucking LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5925",
+     "trucks": "1"
+    },
     {
      "cargo": "General Freight",
      "city": "Melvindale",
@@ -1622,46 +1662,6 @@
      "name": "MAXHUAL LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0944",
      "trucks": "2"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Hamtramck",
-     "email": "T\u2022\u2022\u2022@GMAIL.COM",
-     "granted": "Nov 12, 2026",
-     "insurer": "PROGRESSIVE MICHIGAN INSURANCE COMPANY",
-     "name": "TAHA TRANSPORT LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6892",
-     "trucks": "1"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Harper Woods",
-     "email": "i\u2022\u2022\u2022@2lllogistics.com",
-     "granted": "Nov 11, 2026",
-     "insurer": "PROGRESSIVE MICHIGAN INSURANCE COMPANY",
-     "name": "2L&L LOGISTICS LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8619",
-     "trucks": "1"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Melvindale",
-     "email": "h\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 11, 2026",
-     "insurer": "PROGRESSIVE MICHIGAN INSURANCE COMPANY",
-     "name": "HORIZON TRUCKING EXPRESS",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7431",
-     "trucks": "1"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Detroit",
-     "email": "n\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 11, 2026",
-     "insurer": "PROGRESSIVE MICHIGAN INSURANCE COMPANY",
-     "name": "NXT TRANSPORT INC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2143",
-     "trucks": "1"
     }
    ],
    "slug": "michigan",
@@ -1672,30 +1672,50 @@
     ],
     [
      "Dearborn",
-     8
+     9
     ],
     [
      "Detroit",
-     7
+     8
     ],
     [
      "Westland",
-     6
+     7
     ],
     [
      "Sterling Heights",
      4
     ]
    ],
-   "yesterday": 1
+   "yesterday": 2
   },
   "MN": {
    "lapses30d": 35,
-   "last30": 108,
-   "last7": 17,
+   "last30": 106,
+   "last7": 20,
    "name": "Minnesota",
-   "renewals60d": 128,
+   "renewals60d": 127,
    "sample": [
+    {
+     "cargo": "General Freight; Household Goods; Other",
+     "city": "Woodbury",
+     "email": "i\u2022\u2022\u2022@ezbreezymoves.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
+     "name": "EZ BREEZY MOVES LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2017",
+     "trucks": "2"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Lauderdale",
+     "email": "a\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
+     "name": "Bahari Trucking LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5052",
+     "trucks": "1"
+    },
     {
      "cargo": "General Freight",
      "city": "Minneapolis",
@@ -1707,44 +1727,24 @@
      "trucks": "1"
     },
     {
-     "cargo": "Grain/Feed; Other",
-     "city": "Freeport",
-     "email": "c\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 12, 2026",
+     "cargo": "General Freight",
+     "city": "Minneapolis",
+     "email": "s\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 13, 2026",
      "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "EIDEN TRUCKING LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1617",
+     "name": "MLT COURIER HAULING LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2272",
      "trucks": "1"
     },
     {
      "cargo": "General Freight",
-     "city": "Minneappolis",
-     "email": "b\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 12, 2026",
-     "insurer": "GEiCO Marine Insurance Company",
-     "name": "BKR TRUCKLINE LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5809",
-     "trucks": "1"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Hill City",
-     "email": "c\u2022\u2022\u2022@hotmail.com",
-     "granted": "Nov 12, 2026",
+     "city": "Bloomington",
+     "email": "a\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 13, 2026",
      "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "Wolves Properties LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9275",
+     "name": "Orca Freight LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3483",
      "trucks": "2"
-    },
-    {
-     "cargo": "",
-     "city": "Hugo",
-     "email": "m\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 12, 2026",
-     "insurer": "Forge Insurance Company",
-     "name": "MN Luxury Chauffeur & Transportation LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2781",
-     "trucks": "1"
     }
    ],
    "slug": "minnesota",
@@ -1754,12 +1754,12 @@
      17
     ],
     [
-     "Saint Cloud",
-     9
+     "Bloomington",
+     8
     ],
     [
-     "Bloomington",
-     7
+     "Saint Cloud",
+     8
     ],
     [
      "Burnsville",
@@ -1770,63 +1770,63 @@
      5
     ]
    ],
-   "yesterday": 1
+   "yesterday": 2
   },
   "MO": {
-   "lapses30d": 30,
-   "last30": 74,
-   "last7": 16,
+   "lapses30d": 32,
+   "last30": 81,
+   "last7": 22,
    "name": "Missouri",
-   "renewals60d": 101,
+   "renewals60d": 102,
    "sample": [
     {
-     "cargo": "Metal Sheets/Coils; Logs/Poles/Beams; Machinery (Large); Meat; Refrigerated Food",
-     "city": "Springfield",
-     "email": "k\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
+     "cargo": "General Freight",
+     "city": "St Louis",
+     "email": "b\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
      "insurer": "Progressive Casualty Insurance Company",
-     "name": "Kingdom Express LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0944",
-     "trucks": "1"
+     "name": "BSEL Legacy Logistics LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4991",
+     "trucks": "10"
     },
     {
-     "cargo": "Drive/Tow Vehicles",
+     "cargo": "Building Materials; Construction",
+     "city": "Doe Run",
+     "email": "g\u2022\u2022\u2022@hotmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "Canal Insurance Company",
+     "name": "GD HAULING LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7111",
+     "trucks": "60"
+    },
+    {
+     "cargo": "Paper Products",
      "city": "Saint Louis",
-     "email": "c\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "Fortegra Specialty Insurance Company",
-     "name": "CLASSIC TOWING AND RECOVERY LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3575",
-     "trucks": "12"
-    },
-    {
-     "cargo": "",
-     "city": "Linn",
-     "email": "w\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "Progressive Casualty Insurance Company",
-     "name": "WT BEAULIEU TRUCKING LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8678",
-     "trucks": "2"
+     "email": "n\u2022\u2022\u2022@theshredtruck.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "Secura Insurance Company",
+     "name": "THE SHRED TRUCK LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7878",
+     "trucks": "5"
     },
     {
      "cargo": "General Freight",
-     "city": "Kansas City",
-     "email": "j\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 12, 2026",
-     "insurer": "Progressive Casualty Insurance Company",
-     "name": "ASCENSION KC LOGISTICS LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7885",
+     "city": "Sedalia",
+     "email": "m\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "GEiCO Marine Insurance Company",
+     "name": "Mountward Logistics LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9644",
      "trucks": "1"
     },
     {
-     "cargo": "Mobile Homes",
-     "city": "Moscow Mills",
-     "email": "m\u2022\u2022\u2022@yahoo.com",
-     "granted": "Nov 12, 2026",
+     "cargo": "Household Goods; Metal Sheets/Coils; Logs/Poles/Beams; Building Materials; Mobile Homes; Machinery (Large); Fresh Produce; Intermodal Containers; Livestock; Grain/Feed; Beverages; Paper Products; Farm Supplies; Construction; Water Well; Other",
+     "city": "Cameron",
+     "email": "L\u2022\u2022\u2022@GMAIL.COM",
+     "granted": "Nov 13, 2026",
      "insurer": "Progressive Casualty Insurance Company",
-     "name": "GROUND ZERO EXTERIORS LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3835",
+     "name": "Little of This Little of That Hauling LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8760",
      "trucks": "1"
     }
    ],
@@ -1834,11 +1834,11 @@
    "top_cities": [
     [
      "Kansas City",
-     11
+     12
     ],
     [
      "Saint Louis",
-     6
+     7
     ],
     [
      "Springfield",
@@ -1849,21 +1849,31 @@
      3
     ],
     [
-     "Moscow Mills",
+     "St Louis",
      2
     ]
    ],
-   "yesterday": 3
+   "yesterday": 4
   },
   "MS": {
    "lapses30d": 28,
-   "last30": 61,
+   "last30": 60,
    "last7": 9,
    "name": "Mississippi",
-   "renewals60d": 47,
+   "renewals60d": 48,
    "sample": [
     {
-     "cargo": "Drive/Tow Vehicles; Other",
+     "cargo": "Building Materials; Construction",
+     "city": "Ocean Springs",
+     "email": "G\u2022\u2022\u2022@YAHOO.COM",
+     "granted": "Nov 13, 2026",
+     "insurer": "GEiCO Marine Insurance Company",
+     "name": "Guntrz Express, LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5903",
+     "trucks": "2"
+    },
+    {
+     "cargo": "General Freight; Drive/Tow Vehicles; Other",
      "city": "Jackson",
      "email": "d\u2022\u2022\u2022@gmail.com",
      "granted": "Nov 12, 2026",
@@ -1871,16 +1881,6 @@
      "name": "Drivers 1st Dispatch Service LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3440",
      "trucks": "1"
-    },
-    {
-     "cargo": "Household Goods",
-     "city": "Gulfport",
-     "email": "l\u2022\u2022\u2022@outlook.com",
-     "granted": "Nov 11, 2026",
-     "insurer": "GEiCO Marine Insurance Company",
-     "name": "LUXEGISTICS VAN LINES LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1980",
-     "trucks": "4"
     },
     {
      "cargo": "General Freight",
@@ -1893,14 +1893,14 @@
      "trucks": "2"
     },
     {
-     "cargo": "Logs/Poles/Beams; Paper Products; Other",
-     "city": "Pontotoc",
-     "email": "l\u2022\u2022\u2022@icloud.com",
-     "granted": "Nov 10, 2026",
-     "insurer": "GEICO GENERAL INSURANCE COMPANY",
-     "name": "Lonely money enterprises LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4202",
-     "trucks": "2"
+     "cargo": "Household Goods",
+     "city": "Gulfport",
+     "email": "l\u2022\u2022\u2022@outlook.com",
+     "granted": "Nov 11, 2026",
+     "insurer": "GEiCO Marine Insurance Company",
+     "name": "LUXEGISTICS VAN LINES LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1980",
+     "trucks": "4"
     },
     {
      "cargo": "General Freight",
@@ -1932,19 +1932,29 @@
      2
     ],
     [
-     "Pontotoc",
+     "Meridian",
      2
     ]
    ],
    "yesterday": 0
   },
   "MT": {
-   "lapses30d": 4,
+   "lapses30d": 3,
    "last30": 12,
-   "last7": 4,
+   "last7": 5,
    "name": "Montana",
-   "renewals60d": 13,
+   "renewals60d": 14,
    "sample": [
+    {
+     "cargo": "General Freight",
+     "city": "Corvallis",
+     "email": "d\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
+     "name": "A&D Transport llc",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6375",
+     "trucks": "1"
+    },
     {
      "cargo": "Machinery (Large); Other",
      "city": "Corvallis",
@@ -1966,16 +1976,6 @@
      "trucks": "1"
     },
     {
-     "cargo": "General Freight; Machinery (Large); Livestock; Grain/Feed; Dry Bulk; Farm Supplies",
-     "city": "Dillon",
-     "email": "t\u2022\u2022\u2022@sproutvalleyfarms.com",
-     "granted": "Nov 9, 2026",
-     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "Sprout Valley Farms, LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3133",
-     "trucks": "2"
-    },
-    {
      "cargo": "U.S. Mail",
      "city": "Wolf Point",
      "email": "f\u2022\u2022\u2022@live.com",
@@ -1986,18 +1986,22 @@
      "trucks": "1"
     },
     {
-     "cargo": "Passengers",
-     "city": "Gardiner",
-     "email": "e\u2022\u2022\u2022@yrc.tours",
-     "granted": "Nov 3, 2026",
+     "cargo": "General Freight; Machinery (Large); Livestock; Grain/Feed; Dry Bulk; Farm Supplies",
+     "city": "Dillon",
+     "email": "t\u2022\u2022\u2022@sproutvalleyfarms.com",
+     "granted": "Nov 9, 2026",
      "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "YELLOWSTONE RECREATION COMPANY LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0662",
-     "trucks": "1"
+     "name": "Sprout Valley Farms, LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3133",
+     "trucks": "2"
     }
    ],
    "slug": "montana",
    "top_cities": [
+    [
+     "Corvallis",
+     2
+    ],
     [
      "Kalispell",
      2
@@ -2007,110 +2011,116 @@
      2
     ],
     [
-     "Corvallis",
+     "Wolf Point",
      1
     ],
     [
      "Dillon",
-     1
-    ],
-    [
-     "Wolf Point",
      1
     ]
    ],
    "yesterday": 1
   },
   "NC": {
-   "lapses30d": 93,
-   "last30": 180,
-   "last7": 40,
+   "lapses30d": 90,
+   "last30": 182,
+   "last7": 46,
    "name": "North Carolina",
-   "renewals60d": 194,
+   "renewals60d": 202,
    "sample": [
     {
-     "cargo": "Household Goods",
-     "city": "Indian Trail",
-     "email": "i\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "Auto-Owners Insurance Company",
-     "name": "Anthony McCall Dba Interior Solutions Delivery Service",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5981",
-     "trucks": "1"
-    },
-    {
-     "cargo": "Building Materials; Construction",
-     "city": "Charlotte",
-     "email": "n\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
+     "cargo": "General Freight",
+     "city": "Snow Hill",
+     "email": "s\u2022\u2022\u2022@c9transport.com",
+     "granted": "Nov 14, 2026",
      "insurer": "PROGRESSIVE SOUTHEASTERN INSURANCE COMPANY",
-     "name": "ND HAULING LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8186",
+     "name": "CHAPTER IX TRANSPORT LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9107",
      "trucks": "1"
     },
     {
-     "cargo": "Logs/Poles/Beams; Grain/Feed; Other",
-     "city": "Hertford",
-     "email": "\u2014",
-     "granted": "Nov 13, 2026",
-     "insurer": "Northland Insurance Company",
-     "name": "LEWIS EDGAR WHIDBEE",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5892",
+     "cargo": "Beverages; Paper Products",
+     "city": "Charlotte",
+     "email": "m\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "PROGRESSIVE SOUTHEASTERN INSURANCE COMPANY",
+     "name": "Monastery Logistics LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4441",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Asheville",
+     "email": "g\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "PROGRESSIVE SOUTHEASTERN INSURANCE COMPANY",
+     "name": "GURSHAN TRANSPORTATION INC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2524",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Charlotte",
+     "email": "E\u2022\u2022\u2022@GMAIL.COM",
+     "granted": "Nov 14, 2026",
+     "insurer": "Integon Indemnity Corporation",
+     "name": "ERI FREIGHT LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2690",
      "trucks": "2"
     },
     {
-     "cargo": "General Freight",
-     "city": "Charlotte",
-     "email": "t\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "Integon Indemnity Corporation",
-     "name": "TWL logistics LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1660",
-     "trucks": "1"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Eden",
-     "email": "S\u2022\u2022\u2022@SANDLOTHOTSHOT.COM",
-     "granted": "Nov 13, 2026",
+     "cargo": "General Freight; Other",
+     "city": "Newton",
+     "email": "n\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
      "insurer": "PROGRESSIVE SOUTHEASTERN INSURANCE COMPANY",
-     "name": "Sandlot Hotshot, LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8828",
-     "trucks": "1"
+     "name": "Crab Shack King LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4335",
+     "trucks": "2"
     }
    ],
    "slug": "north-carolina",
    "top_cities": [
     [
      "Charlotte",
-     39
+     41
     ],
     [
      "Raleigh",
-     9
+     8
     ],
     [
      "Fayetteville",
      7
     ],
     [
-     "High Point",
+     "Greensboro",
      5
     ],
     [
-     "Greensboro",
-     5
+     "Durham",
+     4
     ]
    ],
-   "yesterday": 6
+   "yesterday": 5
   },
   "ND": {
-   "lapses30d": 11,
-   "last30": 19,
-   "last7": 4,
+   "lapses30d": 10,
+   "last30": 20,
+   "last7": 5,
    "name": "North Dakota",
-   "renewals60d": 33,
+   "renewals60d": 34,
    "sample": [
+    {
+     "cargo": "General Freight",
+     "city": "Killdeer",
+     "email": "o\u2022\u2022\u2022@dakotatailwind.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "GEiCO Marine Insurance Company",
+     "name": "Dakota Tailwind Transport Service",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4708",
+     "trucks": "2"
+    },
     {
      "cargo": "Fresh Produce",
      "city": "Grand Forks",
@@ -2120,16 +2130,6 @@
      "name": "Jeffery McDonald",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4853",
      "trucks": "7"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Dickinson",
-     "email": "c\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 10, 2026",
-     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "Nettafri LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7801",
-     "trucks": "2"
     },
     {
      "cargo": "Grain/Feed; Farm Supplies",
@@ -2142,6 +2142,16 @@
      "trucks": "1"
     },
     {
+     "cargo": "General Freight",
+     "city": "Dickinson",
+     "email": "c\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 10, 2026",
+     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
+     "name": "Nettafri LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7801",
+     "trucks": "2"
+    },
+    {
      "cargo": "Building Materials; Grain/Feed; Farm Supplies; Construction",
      "city": "Grand Forks",
      "email": "j\u2022\u2022\u2022@gmail.com",
@@ -2149,16 +2159,6 @@
      "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
      "name": "Field Brothers Trucking LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6956",
-     "trucks": "3"
-    },
-    {
-     "cargo": "Coal/Coke",
-     "city": "Williston",
-     "email": "t\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 6, 2026",
-     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "PTV LOGISTICS LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5239",
      "trucks": "3"
     }
    ],
@@ -2181,19 +2181,29 @@
      2
     ],
     [
-     "Thompson",
+     "Killdeer",
      1
     ]
    ],
    "yesterday": 1
   },
   "NE": {
-   "lapses30d": 13,
-   "last30": 27,
-   "last7": 3,
+   "lapses30d": 15,
+   "last30": 28,
+   "last7": 4,
    "name": "Nebraska",
-   "renewals60d": 40,
+   "renewals60d": 42,
    "sample": [
+    {
+     "cargo": "General Freight; Meat; Refrigerated Food; Beverages",
+     "city": "Grand Island",
+     "email": "h\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 13, 2026",
+     "insurer": "Progressive Casualty Insurance Company",
+     "name": "HR Cargo LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0196",
+     "trucks": "1"
+    },
     {
      "cargo": "General Freight; Machinery (Large); Liquids/Gases; Grain/Feed; Chemicals",
      "city": "Bertrand",
@@ -2233,23 +2243,13 @@
      "name": "J Bar Trucking LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0664",
      "trucks": "1"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Lincoln",
-     "email": "i\u2022\u2022\u2022@redrocketlogisticsllc.com",
-     "granted": "Nov 6, 2026",
-     "insurer": "PROGRESSIVE NORTHERN INSURANCE COMPANY",
-     "name": "Red Rocket Logistics LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1974",
-     "trucks": "1"
     }
    ],
    "slug": "nebraska",
    "top_cities": [
     [
      "Grand Island",
-     4
+     5
     ],
     [
      "Lincoln",
@@ -2272,10 +2272,10 @@
   },
   "NH": {
    "lapses30d": 1,
-   "last30": 14,
+   "last30": 12,
    "last7": 3,
    "name": "New Hampshire",
-   "renewals60d": 11,
+   "renewals60d": 12,
    "sample": [
     {
      "cargo": "General Freight; Household Goods",
@@ -2308,16 +2308,6 @@
      "trucks": "4"
     },
     {
-     "cargo": "General Freight; Liquids/Gases",
-     "city": "Manchester",
-     "email": "l\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 6, 2026",
-     "insurer": "National Indemnity Company",
-     "name": "LS Logistics LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2752",
-     "trucks": "2"
-    },
-    {
      "cargo": "General Freight",
      "city": "Farmington",
      "email": "m\u2022\u2022\u2022@gmail.com",
@@ -2326,16 +2316,22 @@
      "name": "Mayhem Transport Solutions LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2737",
      "trucks": "2"
+    },
+    {
+     "cargo": "General Freight; Liquids/Gases",
+     "city": "Manchester",
+     "email": "l\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 6, 2026",
+     "insurer": "National Indemnity Company",
+     "name": "LS Logistics LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2752",
+     "trucks": "2"
     }
    ],
    "slug": "new-hampshire",
    "top_cities": [
     [
      "Manchester",
-     2
-    ],
-    [
-     "Nashua",
      2
     ],
     [
@@ -2349,65 +2345,69 @@
     [
      "Whitefield",
      1
+    ],
+    [
+     "Farmington",
+     1
     ]
    ],
    "yesterday": 0
   },
   "NJ": {
-   "lapses30d": 78,
-   "last30": 182,
-   "last7": 48,
+   "lapses30d": 84,
+   "last30": 185,
+   "last7": 52,
    "name": "New Jersey",
-   "renewals60d": 180,
+   "renewals60d": 184,
    "sample": [
     {
      "cargo": "General Freight",
-     "city": "Newark",
-     "email": "S\u2022\u2022\u2022@GMAIL.COM",
-     "granted": "Nov 13, 2026",
-     "insurer": "CarrierGuard Transportation Risk Retention Group, Inc.",
-     "name": "SAFE&SOUND TRUCKING LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9598",
-     "trucks": "2"
+     "city": "Fairfield",
+     "email": "t\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "DRIVE NEW JERSEY INSURANCE COMPANY",
+     "name": "THE LOAD DROPPERS LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5665",
+     "trucks": "1"
+    },
+    {
+     "cargo": "",
+     "city": "Freehold",
+     "email": "s\u2022\u2022\u2022@yahoo.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "National Specialty Insurance Company",
+     "name": "EGY LIMO LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5933",
+     "trucks": "1"
     },
     {
      "cargo": "General Freight",
-     "city": "Morristown",
-     "email": "r\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "DRIVE NEW JERSEY INSURANCE COMPANY",
-     "name": "RYH TRANSPORTATION LLP",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0497",
+     "city": "Hillside",
+     "email": "b\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "OOIDA Risk Retention Group, Inc.",
+     "name": "BORDENAVE TRANSPORT LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6328",
      "trucks": "1"
     },
     {
      "cargo": "General Freight",
-     "city": "Lincoln Park",
-     "email": "i\u2022\u2022\u2022@icloud.com",
-     "granted": "Nov 13, 2026",
+     "city": "Elizabeth",
+     "email": "c\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "Accredited Specialty Insurance Company",
+     "name": "C&G TRUCK SERVICES LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1806",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Montville",
+     "email": "p\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
      "insurer": "DRIVE NEW JERSEY INSURANCE COMPANY",
-     "name": "I P HAULING LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0323",
-     "trucks": "1"
-    },
-    {
-     "cargo": "Intermodal Containers",
-     "city": "Bayonne",
-     "email": "z\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "American Millennium Insurance Company",
-     "name": "ZL Professional Transport Inc",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1678",
-     "trucks": "1"
-    },
-    {
-     "cargo": "General Freight; Intermodal Containers",
-     "city": "Atlantic City",
-     "email": "a\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 12, 2026",
-     "insurer": "Universal Casualty Risk Retention Group, Inc",
-     "name": "ALL DRAYAGE TRANSPORT LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7437",
+     "name": "PRIME TIME 1 LOGISTICS LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9169",
      "trucks": "1"
     }
    ],
@@ -2415,14 +2415,14 @@
    "top_cities": [
     [
      "Elizabeth",
-     14
-    ],
-    [
-     "Newark",
-     10
+     15
     ],
     [
      "Paterson",
+     11
+    ],
+    [
+     "Newark",
      10
     ],
     [
@@ -2430,28 +2430,28 @@
      6
     ],
     [
-     "Belleville",
-     5
+     "Bayonne",
+     4
     ]
    ],
-   "yesterday": 4
+   "yesterday": 7
   },
   "NM": {
-   "lapses30d": 9,
-   "last30": 26,
+   "lapses30d": 8,
+   "last30": 25,
    "last7": 4,
    "name": "New Mexico",
    "renewals60d": 27,
    "sample": [
     {
-     "cargo": "General Freight; Other",
-     "city": "Carlsbad",
-     "email": "j\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 10, 2026",
+     "cargo": "General Freight",
+     "city": "Anthony",
+     "email": "d\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 13, 2026",
      "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "LOAD INTEGRITY TRANSPORTATION LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9983",
-     "trucks": "1"
+     "name": "Border Shield and Security Armor LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9144",
+     "trucks": "4"
     },
     {
      "cargo": "General Freight",
@@ -2461,6 +2461,16 @@
      "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
      "name": "Tuner Trenny Trucking LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8303",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight; Other",
+     "city": "Carlsbad",
+     "email": "j\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 10, 2026",
+     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
+     "name": "LOAD INTEGRITY TRANSPORTATION LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9983",
      "trucks": "1"
     },
     {
@@ -2482,16 +2492,6 @@
      "name": "Panaco Transportation LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6171",
      "trucks": "1"
-    },
-    {
-     "cargo": "General Freight; Machinery (Large)",
-     "city": "Artesia",
-     "email": "s\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 6, 2026",
-     "insurer": "ACUITY, A MUTUAL INSURANCE COMPANY",
-     "name": "Scorpion Dirtworks LLC.",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4706",
-     "trucks": "2"
     }
    ],
    "slug": "new-mexico",
@@ -2501,7 +2501,7 @@
      6
     ],
     [
-     "Los Lunas",
+     "Anthony",
      3
     ],
     [
@@ -2509,23 +2509,43 @@
      2
     ],
     [
-     "Las Cruces",
+     "Los Lunas",
      2
     ],
     [
-     "Anthony",
+     "Las Cruces",
      2
     ]
    ],
    "yesterday": 0
   },
   "NV": {
-   "lapses30d": 20,
-   "last30": 38,
+   "lapses30d": 18,
+   "last30": 39,
    "last7": 11,
    "name": "Nevada",
-   "renewals60d": 47,
+   "renewals60d": 48,
    "sample": [
+    {
+     "cargo": "General Freight",
+     "city": "Las Vegas",
+     "email": "l\u2022\u2022\u2022@yahoo.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "GEiCO Marine Insurance Company",
+     "name": "LPS TRANSPORT LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8681",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight; Building Materials; Construction",
+     "city": "Las Vegas",
+     "email": "e\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
+     "name": "EXPRESS TRANSPORT SERVICES LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0694",
+     "trucks": "2"
+    },
     {
      "cargo": "General Freight; Household Goods; Intermodal Containers; U.S. Mail; Dry Bulk; Beverages",
      "city": "Las Vegas",
@@ -2535,26 +2555,6 @@
      "name": "TEAM FAMOUS LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3383",
      "trucks": "2"
-    },
-    {
-     "cargo": "",
-     "city": "Las Vegas",
-     "email": "e\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 10, 2026",
-     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "Easy Peasy Moving LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2231",
-     "trucks": "2"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Las Vegas",
-     "email": "l\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 10, 2026",
-     "insurer": "Accredited Specialty Insurance Company",
-     "name": "Legacy Arrow LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6989",
-     "trucks": "1"
     },
     {
      "cargo": "General Freight; Other",
@@ -2581,7 +2581,7 @@
    "top_cities": [
     [
      "Las Vegas",
-     23
+     25
     ],
     [
      "North Las Vegas",
@@ -2596,19 +2596,59 @@
      2
     ],
     [
-     "Reno",
+     "Sparks",
      2
     ]
    ],
-   "yesterday": 1
+   "yesterday": 2
   },
   "NY": {
-   "lapses30d": 47,
-   "last30": 64,
-   "last7": 12,
+   "lapses30d": 44,
+   "last30": 67,
+   "last7": 15,
    "name": "New York",
-   "renewals60d": 81,
+   "renewals60d": 84,
    "sample": [
+    {
+     "cargo": "Building Materials; Construction",
+     "city": "Marcellus",
+     "email": "r\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "PROGRESSIVE PREFERRED INSURANCE CO.",
+     "name": "Riptide Logistics LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9502",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Hyde Park",
+     "email": "r\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "PROGRESSIVE NORTHERN INSURANCE COMPANY",
+     "name": "R&M Truckin LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5453",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight; Motor Vehicles",
+     "city": "Brooklyn",
+     "email": "i\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 13, 2026",
+     "insurer": "National Specialty Insurance Company",
+     "name": "STRATTON WAY LOGISTICS INC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4015",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Newburgh",
+     "email": "a\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 13, 2026",
+     "insurer": "NATIONAL LIABILITY & FIRE INSURANCE COMPANY",
+     "name": "OC TRANSPORT & LOGISTICS LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7642",
+     "trucks": "1"
+    },
     {
      "cargo": "General Freight",
      "city": "Parish",
@@ -2618,60 +2658,20 @@
      "name": "Fire Flow Trucking LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6946",
      "trucks": "1"
-    },
-    {
-     "cargo": "Drive/Tow Vehicles",
-     "city": "Sinclairville",
-     "email": "k\u2022\u2022\u2022@outlook.com",
-     "granted": "Nov 12, 2026",
-     "insurer": "PROGRESSIVE NORTHERN INSURANCE COMPANY",
-     "name": "Cassatt & Sons Recovery LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5692",
-     "trucks": "2"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Circleville",
-     "email": "m\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 12, 2026",
-     "insurer": "PROGRESSIVE PREFERRED INSURANCE CO.",
-     "name": "MY MYSPACE LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8259",
-     "trucks": "2"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Middletown",
-     "email": "i\u2022\u2022\u2022@luckyformationindustries.com",
-     "granted": "Nov 11, 2026",
-     "insurer": "PROGRESSIVE NORTHWESTERN INS. CO.",
-     "name": "LUCKY FORMATION INDUSTRIES LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3461",
-     "trucks": "1"
-    },
-    {
-     "cargo": "General Freight; Building Materials; Construction; Other",
-     "city": "Nanuet",
-     "email": "l\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 10, 2026",
-     "insurer": "NATIONAL LIABILITY & FIRE INSURANCE COMPANY",
-     "name": "CLR Trucking Inc.",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3930",
-     "trucks": "1"
     }
    ],
    "slug": "new-york",
    "top_cities": [
     [
-     "Rochester",
+     "Brooklyn",
      4
     ],
     [
-     "Brooklyn",
+     "Albany",
      3
     ],
     [
-     "Albany",
+     "Rochester",
      3
     ],
     [
@@ -2683,98 +2683,108 @@
      2
     ]
    ],
-   "yesterday": 1
+   "yesterday": 2
   },
   "OH": {
-   "lapses30d": 125,
-   "last30": 257,
-   "last7": 50,
+   "lapses30d": 120,
+   "last30": 263,
+   "last7": 59,
    "name": "Ohio",
-   "renewals60d": 345,
+   "renewals60d": 353,
    "sample": [
     {
      "cargo": "General Freight",
-     "city": "Toledo",
-     "email": "b\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
+     "city": "Cleveland",
+     "email": "a\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
      "insurer": "PROGRESSIVE PREFERRED INSURANCE CO.",
-     "name": "BKS EXPRESS LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6390",
+     "name": "Loyalty First Logistics and Transportation",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1225",
      "trucks": "1"
     },
     {
      "cargo": "General Freight",
-     "city": "Powell",
-     "email": "G\u2022\u2022\u2022@GMAIL.COM",
-     "granted": "Nov 13, 2026",
+     "city": "Solon",
+     "email": "g\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
      "insurer": "PROGRESSIVE PREFERRED INSURANCE CO.",
-     "name": "GZ EXPRESS LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4192",
+     "name": "GR8 TRANSPORTATION LTD",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7286",
      "trucks": "1"
     },
     {
-     "cargo": "General Freight",
-     "city": "Beavercreek",
-     "email": "F\u2022\u2022\u2022@GMAIL.COM",
-     "granted": "Nov 13, 2026",
-     "insurer": "GEiCO Marine Insurance Company",
-     "name": "FAM CORPORATION LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7577",
-     "trucks": "1"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "South Lebanon",
-     "email": "z\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "GEiCO Marine Insurance Company",
-     "name": "ZMX GLOBAL INC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7207",
-     "trucks": "1"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Mount Gilead",
-     "email": "j\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 12, 2026",
+     "cargo": "General Freight; Household Goods; Metal Sheets/Coils; Logs/Poles/Beams; Building Materials; Machinery (Large); Fresh Produce; Intermodal Containers; Livestock; Grain/Feed; Meat; Dry Bulk; Refrigerated Food; Beverages; Paper Products; Farm Supplies; Construction; Water Well",
+     "city": "Stow",
+     "email": "m\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
      "insurer": "PROGRESSIVE PREFERRED INSURANCE CO.",
-     "name": "Jonathan Clark",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0158",
+     "name": "Ironstead Transport LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4818",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Broadview Hts",
+     "email": "g\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "PROGRESSIVE PREFERRED INSURANCE CO.",
+     "name": "Gogologistics LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8822",
      "trucks": "2"
+    },
+    {
+     "cargo": "Motor Vehicles; Drive/Tow Vehicles",
+     "city": "Bedford",
+     "email": "m\u2022\u2022\u2022@yahoo.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "PROGRESSIVE PREFERRED INSURANCE CO.",
+     "name": "CLE CAR HUB TOWING AND RECOVERY LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5718",
+     "trucks": "1"
     }
    ],
    "slug": "ohio",
    "top_cities": [
     [
      "Columbus",
-     28
-    ],
-    [
-     "Dayton",
-     15
+     29
     ],
     [
      "Cincinnati",
      13
     ],
     [
-     "Loveland",
-     9
+     "Dayton",
+     13
     ],
     [
      "Cleveland",
+     10
+    ],
+    [
+     "Loveland",
      9
     ]
    ],
-   "yesterday": 4
+   "yesterday": 5
   },
   "OK": {
-   "lapses30d": 34,
-   "last30": 68,
+   "lapses30d": 33,
+   "last30": 67,
    "last7": 10,
    "name": "Oklahoma",
-   "renewals60d": 65,
+   "renewals60d": 67,
    "sample": [
+    {
+     "cargo": "General Freight",
+     "city": "Cushing",
+     "email": "c\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "PROGRESSIVE NORTHERN INSURANCE COMPANY",
+     "name": "CUSHING TRANSIT LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7877",
+     "trucks": "1"
+    },
     {
      "cargo": "General Freight; Other",
      "city": "Enid",
@@ -2814,23 +2824,17 @@
      "name": "5 Talent Enterprise",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9657",
      "trucks": "1"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Collinsville",
-     "email": "r\u2022\u2022\u2022@crosshotshotllc.com",
-     "granted": "Nov 11, 2026",
-     "insurer": "PROGRESSIVE NORTHERN INSURANCE COMPANY",
-     "name": "CROSS HOTSHOT LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4428",
-     "trucks": "1"
     }
    ],
    "slug": "oklahoma",
    "top_cities": [
     [
      "Oklahoma City",
-     11
+     10
+    ],
+    [
+     "Cushing",
+     2
     ],
     [
      "Kingfisher",
@@ -2843,21 +2847,27 @@
     [
      "Collinsville",
      2
-    ],
-    [
-     "Edmond",
-     2
     ]
    ],
-   "yesterday": 2
+   "yesterday": 1
   },
   "OR": {
    "lapses30d": 18,
    "last30": 42,
    "last7": 10,
    "name": "Oregon",
-   "renewals60d": 52,
+   "renewals60d": 51,
    "sample": [
+    {
+     "cargo": "Metal Sheets/Coils; Logs/Poles/Beams; Building Materials; Fresh Produce; Livestock; Grain/Feed; Meat; Garbage/Refuse; Refrigerated Food; Beverages; Paper Products; Farm Supplies; Construction",
+     "city": "Klamath Falls",
+     "email": "B\u2022\u2022\u2022@BASINPROPERTYSERVICES.COM",
+     "granted": "Nov 14, 2026",
+     "insurer": "ARTISAN & TRUCKERS CASUALTY COMPANY",
+     "name": "Basin Property Services LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7202",
+     "trucks": "1"
+    },
     {
      "cargo": "Motor Vehicles; Drive/Tow Vehicles; Other",
      "city": "La Pine",
@@ -2877,16 +2887,6 @@
      "name": "HM FLEET LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9339",
      "trucks": "1"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Portland",
-     "email": "m\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 10, 2026",
-     "insurer": "ARTISAN & TRUCKERS CASUALTY COMPANY",
-     "name": "AWEIS BROS LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8723",
-     "trucks": "2"
     },
     {
      "cargo": "General Freight; Building Materials; Construction",
@@ -2916,6 +2916,10 @@
      13
     ],
     [
+     "Klamath Falls",
+     3
+    ],
+    [
      "Beaverton",
      3
     ],
@@ -2926,69 +2930,65 @@
     [
      "Salem",
      2
-    ],
-    [
-     "Klamath Falls",
-     2
     ]
    ],
    "yesterday": 1
   },
   "PA": {
-   "lapses30d": 93,
-   "last30": 286,
-   "last7": 53,
+   "lapses30d": 89,
+   "last30": 292,
+   "last7": 57,
    "name": "Pennsylvania",
-   "renewals60d": 318,
+   "renewals60d": 324,
    "sample": [
     {
      "cargo": "General Freight",
-     "city": "Allentown",
-     "email": "i\u2022\u2022\u2022@reeldistributionllc.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "Berkshire Hathaway Direct Insurance Company",
-     "name": "Reel Distribution LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3012",
-     "trucks": "2"
-    },
-    {
-     "cargo": "General Freight; Fresh Produce; Intermodal Containers; U.S. Mail; Dry Bulk",
-     "city": "Pittsburgh",
-     "email": "u\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "GEiCO Marine Insurance Company",
-     "name": "Red Bridge Logistics LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6948",
-     "trucks": "1"
-    },
-    {
-     "cargo": "General Freight",
      "city": "Philadelphia",
-     "email": "a\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
+     "email": "r\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
      "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "AZ PRIME CARGO LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4110",
+     "name": "Royal Motors Express Inc",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0717",
      "trucks": "1"
     },
     {
-     "cargo": "General Freight",
-     "city": "Dickson City",
-     "email": "j\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
+     "cargo": "Meat; Refrigerated Food",
+     "city": "Huntingdon Valley",
+     "email": "m\u2022\u2022\u2022@ktiex.com",
+     "granted": "Nov 14, 2026",
      "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "JPRADO LEGACY GROUP INC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5238",
-     "trucks": "1"
+     "name": "KTI EXPRESS LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7455",
+     "trucks": "14"
     },
     {
-     "cargo": "General Freight",
+     "cargo": "General Freight; Metal Sheets/Coils; Logs/Poles/Beams; Building Materials; Construction",
      "city": "Philadelphia",
-     "email": "a\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
+     "email": "d\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
      "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "A&T EXPRESS LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7735",
+     "name": "DNA TRANSPORTATIONS LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8644",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Royersford",
+     "email": "c\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 13, 2026",
+     "insurer": "Agency Insurance Company of Maryland, Inc",
+     "name": "THI-TAM EXPRESS LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8624",
+     "trucks": "1"
+    },
+    {
+     "cargo": "Fresh Produce",
+     "city": "Reading",
+     "email": "l\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 13, 2026",
+     "insurer": "GEICO GENERAL INSURANCE COMPANY",
+     "name": "L&G Transport Corp",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2729",
      "trucks": "1"
     }
    ],
@@ -2996,11 +2996,11 @@
    "top_cities": [
     [
      "Philadelphia",
-     76
+     79
     ],
     [
      "Pittsburgh",
-     11
+     13
     ],
     [
      "Harrisburg",
@@ -3008,21 +3008,21 @@
     ],
     [
      "Reading",
-     9
+     10
     ],
     [
      "Allentown",
      8
     ]
    ],
-   "yesterday": 7
+   "yesterday": 3
   },
   "RI": {
    "lapses30d": 2,
-   "last30": 16,
+   "last30": 17,
    "last7": 3,
    "name": "Rhode Island",
-   "renewals60d": 5,
+   "renewals60d": 6,
    "sample": [
     {
      "cargo": "General Freight",
@@ -3032,6 +3032,16 @@
      "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
      "name": "JALICANO & W LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3348",
+     "trucks": "1"
+    },
+    {
+     "cargo": "",
+     "city": "Johnston",
+     "email": "g\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 13, 2026",
+     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
+     "name": "Top Care Movers LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2763",
      "trucks": "1"
     },
     {
@@ -3063,16 +3073,6 @@
      "name": "RV Trucking LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3498",
      "trucks": "1"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Providence",
-     "email": "d\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 2, 2026",
-     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "SPOONBILL FLEET LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9619",
-     "trucks": "1"
     }
    ],
    "slug": "rhode-island",
@@ -3086,27 +3086,67 @@
      2
     ],
     [
+     "Johnston",
+     2
+    ],
+    [
      "Pawtucket",
      2
     ],
     [
      "Westerly",
      1
-    ],
-    [
-     "Cranston",
-     1
     ]
    ],
-   "yesterday": 1
+   "yesterday": 0
   },
   "SC": {
-   "lapses30d": 46,
+   "lapses30d": 42,
    "last30": 86,
-   "last7": 8,
+   "last7": 12,
    "name": "South Carolina",
    "renewals60d": 91,
    "sample": [
+    {
+     "cargo": "General Freight; Motor Vehicles",
+     "city": "Warrenville",
+     "email": "r\u2022\u2022\u2022@yahoo.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "PROGRESSIVE NORTHERN INSURANCE COMPANY",
+     "name": "ROBINSON ELITE TRANSPORT LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3691",
+     "trucks": "2"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Columbia",
+     "email": "s\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "GEICO GENERAL INSURANCE COMPANY",
+     "name": "SINGLEHAND TRANSPORT AN MOVING LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0502",
+     "trucks": "2"
+    },
+    {
+     "cargo": "General Freight; Household Goods",
+     "city": "Greenwood",
+     "email": "h\u2022\u2022\u2022@jessicaandco.info",
+     "granted": "Nov 14, 2026",
+     "insurer": "PROGRESSIVE NORTHERN INSURANCE COMPANY",
+     "name": "Helena\u2019s Logistics, LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4821",
+     "trucks": "2"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Greer",
+     "email": "l\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 13, 2026",
+     "insurer": "PROGRESSIVE NORTHERN INSURANCE COMPANY",
+     "name": "MS WELLCARE AUTO SOLUTIONS LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4533",
+     "trucks": "1"
+    },
     {
      "cargo": "General Freight",
      "city": "Florence",
@@ -3116,53 +3156,13 @@
      "name": "Blue Magnolia Logistics LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4055",
      "trucks": "2"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Great Falls",
-     "email": "m\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 10, 2026",
-     "insurer": "PROGRESSIVE NORTHERN INSURANCE COMPANY",
-     "name": "Call Culture LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4522",
-     "trucks": "1"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Moncks Corner",
-     "email": "i\u2022\u2022\u2022@ezdoesittransportation.com",
-     "granted": "Nov 10, 2026",
-     "insurer": "PROGRESSIVE NORTHERN INSURANCE COMPANY",
-     "name": "EZ DOES IT LOGISTICS LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0877",
-     "trucks": "4"
-    },
-    {
-     "cargo": "Logs/Poles/Beams; Other",
-     "city": "Hopkins",
-     "email": "t\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 10, 2026",
-     "insurer": "Great West Casualty Co",
-     "name": "TOMMY L BAXTER",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8179",
-     "trucks": "2"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Mcconnells",
-     "email": "s\u2022\u2022\u2022@yahoo.com",
-     "granted": "Nov 10, 2026",
-     "insurer": "PROGRESSIVE NORTHERN INSURANCE COMPANY",
-     "name": "Diverse Hearts Transit LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5679",
-     "trucks": "2"
     }
    ],
    "slug": "south-carolina",
    "top_cities": [
     [
      "Myrtle Beach",
-     11
+     10
     ],
     [
      "Columbia",
@@ -3173,23 +3173,33 @@
      4
     ],
     [
-     "Greenville",
-     4
+     "Greenwood",
+     3
     ],
     [
-     "Charleston",
+     "Greer",
      3
     ]
    ],
-   "yesterday": 0
+   "yesterday": 3
   },
   "SD": {
-   "lapses30d": 7,
+   "lapses30d": 6,
    "last30": 13,
-   "last7": 3,
+   "last7": 4,
    "name": "South Dakota",
    "renewals60d": 12,
    "sample": [
+    {
+     "cargo": "General Freight",
+     "city": "Rapid City",
+     "email": "n\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 13, 2026",
+     "insurer": "Accredited Specialty Insurance Company",
+     "name": "NARROW WAY ENTERPRISE LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8764",
+     "trucks": "1"
+    },
     {
      "cargo": "General Freight; Motor Vehicles",
      "city": "Sioux Falls",
@@ -3229,27 +3239,17 @@
      "name": "METI LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1664",
      "trucks": "1"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Sioux Falls",
-     "email": "s\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 4, 2026",
-     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "Silver Dollar LTL Freight LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3116",
-     "trucks": "2"
     }
    ],
    "slug": "south-dakota",
    "top_cities": [
     [
      "Sioux Falls",
-     5
+     4
     ],
     [
      "Rapid City",
-     2
+     3
     ],
     [
      "Parkston",
@@ -3267,61 +3267,61 @@
    "yesterday": 0
   },
   "TN": {
-   "lapses30d": 64,
-   "last30": 90,
-   "last7": 20,
+   "lapses30d": 61,
+   "last30": 96,
+   "last7": 25,
    "name": "Tennessee",
-   "renewals60d": 80,
+   "renewals60d": 78,
    "sample": [
     {
-     "cargo": "General Freight",
-     "city": "Union City",
-     "email": "m\u2022\u2022\u2022@yahoo.com",
-     "granted": "Nov 12, 2026",
-     "insurer": "PROGRESSIVE HAWAII INSURANCE CORP",
-     "name": "MARY DENE TRUCKING LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5401",
-     "trucks": "1"
-    },
-    {
-     "cargo": "Metal Sheets/Coils; Logs/Poles/Beams; Building Materials; Machinery (Large); Construction",
-     "city": "Bristol",
+     "cargo": "General Freight; Household Goods",
+     "city": "La Vergne",
      "email": "s\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 12, 2026",
+     "granted": "Nov 14, 2026",
      "insurer": "PROGRESSIVE HAWAII INSURANCE CORP",
-     "name": "South Holston Hauling LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5109",
-     "trucks": "3"
-    },
-    {
-     "cargo": "Logs/Poles/Beams; Beverages; Paper Products",
-     "city": "Nashville",
-     "email": "e\u2022\u2022\u2022@obsllogistics.com",
-     "granted": "Nov 12, 2026",
-     "insurer": "PROGRESSIVE HAWAII INSURANCE CORP",
-     "name": "Obsidian Lightning Logistics LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6775",
+     "name": "STREAMLINE NAVIGATION LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7863",
      "trucks": "1"
     },
     {
      "cargo": "General Freight",
-     "city": "Collierville",
-     "email": "e\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 11, 2026",
+     "city": "Old Hickory",
+     "email": "o\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "Agency Insurance Company of Maryland, Inc",
+     "name": "TU TIEMPO TRAVEL MULTISERVICES LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6391",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Nashville",
+     "email": "m\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
      "insurer": "PROGRESSIVE HAWAII INSURANCE CORP",
-     "name": "EB EXPRESSES LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7048",
+     "name": "MIA TRANSPORTATION INC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1030",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Antioch",
+     "email": "a\u2022\u2022\u2022@yahoo.com",
+     "granted": "Nov 13, 2026",
+     "insurer": "PROGRESSIVE HAWAII INSURANCE CORP",
+     "name": "AFFORDABLE LAWNCARE PROS LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8791",
      "trucks": "2"
     },
     {
-     "cargo": "General Freight",
-     "city": "Nashville",
-     "email": "s\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 11, 2026",
-     "insurer": "PROGRESSIVE HAWAII INSURANCE CORP",
-     "name": "SAMI TRUCKING LLP",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1533",
-     "trucks": "1"
+     "cargo": "Dry Bulk",
+     "city": "Murfreesboro",
+     "email": "h\u2022\u2022\u2022@outlook.com",
+     "granted": "Nov 13, 2026",
+     "insurer": "Agency Insurance Company of Maryland, Inc",
+     "name": "Arian Martrice Simone Hill Reynolds",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4630",
+     "trucks": "2"
     }
    ],
    "slug": "tennessee",
@@ -3332,7 +3332,11 @@
     ],
     [
      "Nashville",
-     11
+     12
+    ],
+    [
+     "Antioch",
+     5
     ],
     [
      "Knoxville",
@@ -3341,103 +3345,99 @@
     [
      "Clarksville",
      5
-    ],
-    [
-     "Chattanooga",
-     4
     ]
    ],
-   "yesterday": 0
+   "yesterday": 3
   },
   "TX": {
-   "lapses30d": 311,
-   "last30": 607,
-   "last7": 140,
+   "lapses30d": 309,
+   "last30": 621,
+   "last7": 158,
    "name": "Texas",
-   "renewals60d": 804,
+   "renewals60d": 819,
    "sample": [
     {
-     "cargo": "General Freight; Household Goods; Metal Sheets/Coils; Motor Vehicles; Building Materials; Liquids/Gases; Oilfield Equipment; Livestock; Farm Supplies; Construction; Water Well; Other",
-     "city": "Edinburg",
-     "email": "m\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "Everspan Insurance Company",
-     "name": "MILA FIELD SERVICES LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1030",
-     "trucks": "1"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Buda",
-     "email": "a\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "GEICO County Mutual Insurance Company",
-     "name": "A1 Prime LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9838",
-     "trucks": "19"
-    },
-    {
-     "cargo": "General Freight; Other",
-     "city": "Mesquite",
-     "email": "s\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
+     "cargo": "Building Materials; Liquids/Gases; Oilfield Equipment; Dry Bulk; Construction",
+     "city": "Andrews",
+     "email": "i\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
      "insurer": "PROGRESSIVE COUNTY MUTUAL",
-     "name": "Medical Express Logistics LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8618",
-     "trucks": "3"
-    },
-    {
-     "cargo": "General Freight; Other",
-     "city": "Houston",
-     "email": "p\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "GEICO County Mutual Insurance Company",
-     "name": "Primeway Logistics LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9698",
+     "name": "NDS Logistics LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0300",
      "trucks": "1"
     },
     {
      "cargo": "General Freight",
      "city": "Houston",
-     "email": "g\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "Highlander Specialty Insurance Company",
-     "name": "The Globalist world LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2964",
-     "trucks": "2"
+     "email": "m\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "Brooklyn Specialty Insurance Co. RRG, Inc.",
+     "name": "MCJ Services L.L.C",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1586",
+     "trucks": "6"
+    },
+    {
+     "cargo": "General Freight; Building Materials; Construction",
+     "city": "Paradise",
+     "email": "s\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "PROGRESSIVE COUNTY MUTUAL",
+     "name": "SIMPSON SITE SERVICES LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9046",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Cherokee",
+     "email": "d\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "PROGRESSIVE COUNTY MUTUAL",
+     "name": "FENTAGOE TRANSPORTATION LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4674",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Floresville",
+     "email": "d\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "PROGRESSIVE COUNTY MUTUAL",
+     "name": "Direct HotShot Services LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7258",
+     "trucks": "1"
     }
    ],
    "slug": "texas",
    "top_cities": [
     [
      "Houston",
-     87
+     86
     ],
     [
      "Dallas",
-     35
+     36
     ],
     [
      "San Antonio",
-     24
+     27
     ],
     [
      "Laredo",
-     22
+     23
     ],
     [
      "Fort Worth",
-     18
+     17
     ]
    ],
-   "yesterday": 14
+   "yesterday": 16
   },
   "UT": {
-   "lapses30d": 21,
-   "last30": 39,
-   "last7": 7,
+   "lapses30d": 19,
+   "last30": 38,
+   "last7": 6,
    "name": "Utah",
-   "renewals60d": 61,
+   "renewals60d": 60,
    "sample": [
     {
      "cargo": "U.S. Mail; Other",
@@ -3480,14 +3480,14 @@
      "trucks": "1"
     },
     {
-     "cargo": "General Freight; Other",
-     "city": "West Jordan",
-     "email": "d\u2022\u2022\u2022@gmail.com",
+     "cargo": "General Freight; Building Materials; Machinery (Large); Construction",
+     "city": "Eagle Mtn",
+     "email": "t\u2022\u2022\u2022@highdesertex.com",
      "granted": "Nov 8, 2026",
-     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "DHF LOGISTICS LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9785",
-     "trucks": "1"
+     "insurer": "ACUITY, A MUTUAL INSURANCE COMPANY",
+     "name": "HIGH DESERT EXCAVATION INC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0985",
+     "trucks": "86"
     }
    ],
    "slug": "utah",
@@ -3513,70 +3513,78 @@
      2
     ]
    ],
-   "yesterday": 1
+   "yesterday": 0
   },
   "VA": {
-   "lapses30d": 46,
-   "last30": 95,
-   "last7": 11,
+   "lapses30d": 49,
+   "last30": 99,
+   "last7": 18,
    "name": "Virginia",
-   "renewals60d": 82,
+   "renewals60d": 88,
    "sample": [
     {
      "cargo": "General Freight",
-     "city": "Arlington",
-     "email": "k\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 13, 2026",
-     "insurer": "PROGRESSIVE NORTHERN INSURANCE COMPANY",
-     "name": "BIGDADDY TRANSPORTATION LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0868",
+     "city": "Alexandria",
+     "email": "w\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "GEiCO Marine Insurance Company",
+     "name": "WESKA TRANSPORT LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0463",
      "trucks": "1"
     },
     {
      "cargo": "General Freight",
-     "city": "Portsmouth",
-     "email": "s\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 12, 2026",
-     "insurer": "GEICO GENERAL INSURANCE COMPANY",
-     "name": "SJK WORLDWIDE OPERATIONS LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5394",
-     "trucks": "1"
-    },
-    {
-     "cargo": "General Freight; Mobile Homes; Paper Products",
-     "city": "Harrisonburg",
-     "email": "b\u2022\u2022\u2022@brexpressfreight.com",
-     "granted": "Nov 11, 2026",
+     "city": "Newport News",
+     "email": "j\u2022\u2022\u2022@jackson55logistics.com",
+     "granted": "Nov 14, 2026",
      "insurer": "PROGRESSIVE NORTHERN INSURANCE COMPANY",
-     "name": "BR Express Freight LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8450",
-     "trucks": "2"
+     "name": "Jackson 55 Trucking LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6294",
+     "trucks": "1"
     },
     {
      "cargo": "General Freight",
      "city": "Manassas",
-     "email": "t\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 11, 2026",
-     "insurer": "Great West Casualty Co",
-     "name": "TOS TRANSPORT LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9405",
+     "email": "e\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "PROGRESSIVE NORTHERN INSURANCE COMPANY",
+     "name": "DAG VASQUEZ TOWING SERVICES LIMITED LIABILITY COMPANY",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-1530",
      "trucks": "1"
     },
     {
-     "cargo": "Motor Vehicles; Drive/Tow Vehicles",
-     "city": "Fredericksburg",
-     "email": "i\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 10, 2026",
+     "cargo": "General Freight",
+     "city": "Rice",
+     "email": "n\u2022\u2022\u2022@aol.com",
+     "granted": "Nov 14, 2026",
      "insurer": "PROGRESSIVE NORTHERN INSURANCE COMPANY",
-     "name": "AZ Towing LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0184",
+     "name": "NASH UNIVERSAL LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0877",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Richmond",
+     "email": "n\u2022\u2022\u2022@roadrunnercargollc.info",
+     "granted": "Nov 14, 2026",
+     "insurer": "PROGRESSIVE NORTHERN INSURANCE COMPANY",
+     "name": "Roadrunner Cargo",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0567",
      "trucks": "1"
     }
    ],
    "slug": "virginia",
    "top_cities": [
     [
+     "Newport News",
+     6
+    ],
+    [
      "Manassas",
+     6
+    ],
+    [
+     "Richmond",
      6
     ],
     [
@@ -3584,26 +3592,18 @@
      6
     ],
     [
-     "Newport News",
-     5
-    ],
-    [
-     "Richmond",
-     5
-    ],
-    [
      "Arlington",
      4
     ]
    ],
-   "yesterday": 1
+   "yesterday": 5
   },
   "VT": {
    "lapses30d": 0,
    "last30": 3,
    "last7": 1,
    "name": "Vermont",
-   "renewals60d": 4,
+   "renewals60d": 5,
    "sample": [
     {
      "cargo": "Building Materials; Machinery (Large); Utilities; Construction; Other",
@@ -3654,12 +3654,52 @@
    "yesterday": 0
   },
   "WA": {
-   "lapses30d": 39,
+   "lapses30d": 38,
    "last30": 85,
-   "last7": 18,
+   "last7": 20,
    "name": "Washington",
-   "renewals60d": 128,
+   "renewals60d": 134,
    "sample": [
+    {
+     "cargo": "General Freight; Building Materials; Farm Supplies; Construction",
+     "city": "Mount Vernon",
+     "email": "n\u2022\u2022\u2022@yahoo.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
+     "name": "NTW Trucking LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2613",
+     "trucks": "2"
+    },
+    {
+     "cargo": "General Freight; Other",
+     "city": "Kennewick",
+     "email": "a\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
+     "name": "A&E Transport Plus, L.L.C.",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3795",
+     "trucks": "3"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Vancouver",
+     "email": "v\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
+     "name": "VANLOVE INC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0070",
+     "trucks": "1"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Vancouver",
+     "email": "j\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 13, 2026",
+     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
+     "name": "JST MOVING LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8970",
+     "trucks": "0"
+    },
     {
      "cargo": "General Freight; Motor Vehicles; Drive/Tow Vehicles",
      "city": "Cheney",
@@ -3669,46 +3709,6 @@
      "name": "RAPID RECOVERY TOWING LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2318",
      "trucks": "2"
-    },
-    {
-     "cargo": "General Freight; Other",
-     "city": "Auburn",
-     "email": "L\u2022\u2022\u2022@GMAIL.COM",
-     "granted": "Nov 12, 2026",
-     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "ALSA TRANSPORTATION LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4402",
-     "trucks": "2"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Kennewick",
-     "email": "a\u2022\u2022\u2022@psalm91multiservice.com",
-     "granted": "Nov 12, 2026",
-     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "Psalm91 Multiservice LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7774",
-     "trucks": "4"
-    },
-    {
-     "cargo": "General Freight; Household Goods; Metal Sheets/Coils; Logs/Poles/Beams; Building Materials; Mobile Homes; Machinery (Large); Intermodal Containers; Garbage/Refuse; Paper Products; Construction",
-     "city": "Vancouver",
-     "email": "m\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 11, 2026",
-     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "MARQUEZ CONTRACTING CORP",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-2978",
-     "trucks": "3"
-    },
-    {
-     "cargo": "General Freight; Other",
-     "city": "Federal Way",
-     "email": "p\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 11, 2026",
-     "insurer": "UNITED FINANCIAL CASUALTY COMPANY",
-     "name": "Pathway solutions LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-9388",
-     "trucks": "1"
     }
    ],
    "slug": "washington",
@@ -3718,31 +3718,51 @@
      9
     ],
     [
+     "Vancouver",
+     6
+    ],
+    [
+     "Kennewick",
+     5
+    ],
+    [
      "Auburn",
      5
     ],
     [
      "Tacoma",
      5
-    ],
-    [
-     "Kennewick",
-     4
-    ],
-    [
-     "Vancouver",
-     4
     ]
    ],
-   "yesterday": 1
+   "yesterday": 3
   },
   "WI": {
-   "lapses30d": 20,
-   "last30": 49,
-   "last7": 6,
+   "lapses30d": 21,
+   "last30": 50,
+   "last7": 8,
    "name": "Wisconsin",
-   "renewals60d": 81,
+   "renewals60d": 83,
    "sample": [
+    {
+     "cargo": "General Freight; Household Goods; Building Materials; Construction",
+     "city": "Westby",
+     "email": "j\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "ARTISAN & TRUCKERS CASUALTY COMPANY",
+     "name": "Concise Solutions LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3629",
+     "trucks": "3"
+    },
+    {
+     "cargo": "General Freight",
+     "city": "Milwaukee",
+     "email": "c\u2022\u2022\u2022@gmail.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "Incline Americas Insurance Company",
+     "name": "CHAUHAN PRIME LOGISTICS LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5055",
+     "trucks": "2"
+    },
     {
      "cargo": "General Freight",
      "city": "Racine",
@@ -3772,37 +3792,17 @@
      "name": "8 Mile Transportation LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7400",
      "trucks": "1"
-    },
-    {
-     "cargo": "General Freight; Household Goods; Dry Bulk",
-     "city": "Milwaukee",
-     "email": "w\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 9, 2026",
-     "insurer": "ARTISAN & TRUCKERS CASUALTY COMPANY",
-     "name": "washington trucking llc",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-6256",
-     "trucks": "2"
-    },
-    {
-     "cargo": "General Freight",
-     "city": "Cudahy",
-     "email": "m\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 9, 2026",
-     "insurer": "ARTISAN & TRUCKERS CASUALTY COMPANY",
-     "name": "MAVRIX TRANSPORTATION LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3435",
-     "trucks": "1"
     }
    ],
    "slug": "wisconsin",
    "top_cities": [
     [
      "Milwaukee",
-     10
+     11
     ],
     [
      "Oak Creek",
-     5
+     4
     ],
     [
      "Racine",
@@ -3817,14 +3817,14 @@
      2
     ]
    ],
-   "yesterday": 1
+   "yesterday": 2
   },
   "WV": {
-   "lapses30d": 3,
-   "last30": 17,
-   "last7": 4,
+   "lapses30d": 4,
+   "last30": 16,
+   "last7": 2,
    "name": "West Virginia",
-   "renewals60d": 10,
+   "renewals60d": 11,
    "sample": [
     {
      "cargo": "General Freight",
@@ -3847,16 +3847,6 @@
      "trucks": "1"
     },
     {
-     "cargo": "Motor Vehicles; Drive/Tow Vehicles",
-     "city": "Morgantown",
-     "email": "n\u2022\u2022\u2022@yahoo.com",
-     "granted": "Nov 7, 2026",
-     "insurer": "PROGRESSIVE CLASSIC INSURANCE COMPANY",
-     "name": "North Central Automotive Repair LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4844",
-     "trucks": "1"
-    },
-    {
      "cargo": "General Freight",
      "city": "Baisden",
      "email": "j\u2022\u2022\u2022@icloud.com",
@@ -3864,6 +3854,16 @@
      "insurer": "PROGRESSIVE CLASSIC INSURANCE COMPANY",
      "name": "A-D-H-D ENTERPRISE LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4626",
+     "trucks": "1"
+    },
+    {
+     "cargo": "Motor Vehicles; Drive/Tow Vehicles",
+     "city": "Morgantown",
+     "email": "n\u2022\u2022\u2022@yahoo.com",
+     "granted": "Nov 7, 2026",
+     "insurer": "PROGRESSIVE CLASSIC INSURANCE COMPANY",
+     "name": "North Central Automotive Repair LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4844",
      "trucks": "1"
     },
     {
@@ -3888,11 +3888,11 @@
      1
     ],
     [
-     "Morgantown",
+     "Baisden",
      1
     ],
     [
-     "Baisden",
+     "Morgantown",
      1
     ],
     [
@@ -3903,16 +3903,26 @@
    "yesterday": 0
   },
   "WY": {
-   "lapses30d": 7,
-   "last30": 16,
-   "last7": 4,
+   "lapses30d": 8,
+   "last30": 17,
+   "last7": 5,
    "name": "Wyoming",
-   "renewals60d": 11,
+   "renewals60d": 12,
    "sample": [
+    {
+     "cargo": "General Freight; Motor Vehicles; Building Materials; Machinery (Large); Construction; Other",
+     "city": "Cheyenne",
+     "email": "i\u2022\u2022\u2022@rollout-express.com",
+     "granted": "Nov 14, 2026",
+     "insurer": "GEICO GENERAL INSURANCE COMPANY",
+     "name": "ROLLOUT EXPRESS LLC",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7097",
+     "trucks": "2"
+    },
     {
      "cargo": "Machinery (Large); Dry Bulk",
      "city": "Cheyenne",
-     "email": "A\u2022\u2022\u2022@FENCETRAK.COM",
+     "email": "a\u2022\u2022\u2022@fencetrak.com",
      "granted": "Nov 12, 2026",
      "insurer": "ARTISAN & TRUCKERS CASUALTY COMPANY",
      "name": "Dash Hauling, LLC",
@@ -3948,23 +3958,13 @@
      "name": "Freeway Freight Services LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-7261",
      "trucks": "0"
-    },
-    {
-     "cargo": "General Freight; Motor Vehicles; Drive/Tow Vehicles",
-     "city": "Rock Springs",
-     "email": "t\u2022\u2022\u2022@gmail.com",
-     "granted": "Nov 4, 2026",
-     "insurer": "ARTISAN & TRUCKERS CASUALTY COMPANY",
-     "name": "Thomas Trans Inc",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4242",
-     "trucks": "2"
     }
    ],
    "slug": "wyoming",
    "top_cities": [
     [
      "Cheyenne",
-     4
+     5
     ],
     [
      "Sheridan",
@@ -3983,12 +3983,12 @@
      1
     ]
    ],
-   "yesterday": 0
+   "yesterday": 1
   }
  },
  "windows": {
-  "last30": "the trailing 30 days ending November 13, 2026",
-  "last7": "the 7 days ending November 13, 2026",
-  "yesterday": "grants dated November 13, 2026 (the newest FMCSA file date)"
+  "last30": "the trailing 30 days ending November 14, 2026",
+  "last7": "the 7 days ending November 14, 2026",
+  "yesterday": "grants dated November 14, 2026 (the newest FMCSA file date)"
  }
 }
