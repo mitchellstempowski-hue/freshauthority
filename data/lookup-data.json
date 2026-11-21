@@ -35,11 +35,11 @@
    "yesterday": 1
   },
   "AL": {
-   "lapses30d": 23,
+   "lapses30d": 17,
    "last30": 77,
    "last7": 20,
    "name": "Alabama",
-   "renewals60d": 61,
+   "renewals60d": 62,
    "sample": [
     {
      "cargo": "General Freight",
@@ -118,11 +118,11 @@
    "yesterday": 1
   },
   "AR": {
-   "lapses30d": 17,
+   "lapses30d": 6,
    "last30": 32,
    "last7": 7,
    "name": "Arkansas",
-   "renewals60d": 41,
+   "renewals60d": 40,
    "sample": [
     {
      "cargo": "Grain/Feed; Chemicals",
@@ -201,11 +201,11 @@
    "yesterday": 0
   },
   "AZ": {
-   "lapses30d": 30,
+   "lapses30d": 17,
    "last30": 107,
    "last7": 30,
    "name": "Arizona",
-   "renewals60d": 105,
+   "renewals60d": 101,
    "sample": [
     {
      "cargo": "General Freight",
@@ -284,11 +284,11 @@
    "yesterday": 3
   },
   "CA": {
-   "lapses30d": 194,
+   "lapses30d": 112,
    "last30": 482,
    "last7": 119,
    "name": "California",
-   "renewals60d": 1191,
+   "renewals60d": 1154,
    "sample": [
     {
      "cargo": "General Freight",
@@ -367,7 +367,7 @@
    "yesterday": 13
   },
   "CO": {
-   "lapses30d": 20,
+   "lapses30d": 10,
    "last30": 67,
    "last7": 16,
    "name": "Colorado",
@@ -450,7 +450,7 @@
    "yesterday": 0
   },
   "CT": {
-   "lapses30d": 5,
+   "lapses30d": 4,
    "last30": 56,
    "last7": 18,
    "name": "Connecticut",
@@ -489,7 +489,7 @@
     {
      "cargo": "General Freight",
      "city": "West Haven",
-     "email": "A\u2022\u2022\u2022@GMAIL.COM",
+     "email": "a\u2022\u2022\u2022@gmail.com",
      "granted": "Nov 18, 2026",
      "insurer": "Progressive Casualty Insurance Company",
      "name": "SUPER TIRES LLC",
@@ -533,7 +533,7 @@
    "yesterday": 2
   },
   "DE": {
-   "lapses30d": 6,
+   "lapses30d": 3,
    "last30": 20,
    "last7": 10,
    "name": "Delaware",
@@ -616,11 +616,11 @@
    "yesterday": 1
   },
   "FL": {
-   "lapses30d": 135,
+   "lapses30d": 71,
    "last30": 379,
    "last7": 89,
    "name": "Florida",
-   "renewals60d": 466,
+   "renewals60d": 459,
    "sample": [
     {
      "cargo": "General Freight; Fresh Produce",
@@ -699,11 +699,11 @@
    "yesterday": 9
   },
   "GA": {
-   "lapses30d": 57,
+   "lapses30d": 33,
    "last30": 212,
    "last7": 54,
    "name": "Georgia",
-   "renewals60d": 237,
+   "renewals60d": 234,
    "sample": [
     {
      "cargo": "General Freight; Fresh Produce; Meat; Refrigerated Food",
@@ -793,11 +793,11 @@
    "yesterday": 0
   },
   "IA": {
-   "lapses30d": 13,
+   "lapses30d": 3,
    "last30": 53,
    "last7": 13,
    "name": "Iowa",
-   "renewals60d": 66,
+   "renewals60d": 67,
    "sample": [
     {
      "cargo": "General Freight",
@@ -876,7 +876,7 @@
    "yesterday": 1
   },
   "ID": {
-   "lapses30d": 9,
+   "lapses30d": 3,
    "last30": 23,
    "last7": 3,
    "name": "Idaho",
@@ -959,11 +959,11 @@
    "yesterday": 1
   },
   "IL": {
-   "lapses30d": 84,
+   "lapses30d": 43,
    "last30": 346,
    "last7": 63,
    "name": "Illinois",
-   "renewals60d": 526,
+   "renewals60d": 521,
    "sample": [
     {
      "cargo": "General Freight",
@@ -1042,11 +1042,11 @@
    "yesterday": 5
   },
   "IN": {
-   "lapses30d": 45,
+   "lapses30d": 18,
    "last30": 112,
    "last7": 22,
    "name": "Indiana",
-   "renewals60d": 197,
+   "renewals60d": 193,
    "sample": [
     {
      "cargo": "General Freight; Fresh Produce; Meat; Refrigerated Food",
@@ -1125,7 +1125,7 @@
    "yesterday": 2
   },
   "KS": {
-   "lapses30d": 11,
+   "lapses30d": 9,
    "last30": 35,
    "last7": 7,
    "name": "Kansas",
@@ -1208,11 +1208,11 @@
    "yesterday": 0
   },
   "KY": {
-   "lapses30d": 12,
+   "lapses30d": 11,
    "last30": 60,
    "last7": 14,
    "name": "Kentucky",
-   "renewals60d": 76,
+   "renewals60d": 73,
    "sample": [
     {
      "cargo": "General Freight",
@@ -1291,11 +1291,11 @@
    "yesterday": 0
   },
   "LA": {
-   "lapses30d": 12,
+   "lapses30d": 5,
    "last30": 23,
    "last7": 6,
    "name": "Louisiana",
-   "renewals60d": 36,
+   "renewals60d": 35,
    "sample": [
     {
      "cargo": "General Freight; Building Materials; Machinery (Large); Construction",
@@ -1304,7 +1304,7 @@
      "granted": "Nov 19, 2026",
      "insurer": "BLUE HILL SPECIALTY INSURANCE COMPANY INC",
      "name": "EMS TRANSPORTS LLC",
-     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-4727",
+     "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-5461",
      "trucks": "2"
     },
     {
@@ -1325,7 +1325,7 @@
      "insurer": "BLUE HILL SPECIALTY INSURANCE COMPANY INC",
      "name": "Focus Transfer, LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-8485",
-     "trucks": "1"
+     "trucks": "2"
     },
     {
      "cargo": "General Freight",
@@ -1374,11 +1374,11 @@
    "yesterday": 0
   },
   "MA": {
-   "lapses30d": 13,
+   "lapses30d": 11,
    "last30": 56,
    "last7": 17,
    "name": "Massachusetts",
-   "renewals60d": 49,
+   "renewals60d": 47,
    "sample": [
     {
      "cargo": "",
@@ -1457,11 +1457,11 @@
    "yesterday": 0
   },
   "MD": {
-   "lapses30d": 26,
+   "lapses30d": 18,
    "last30": 89,
    "last7": 17,
    "name": "Maryland",
-   "renewals60d": 81,
+   "renewals60d": 79,
    "sample": [
     {
      "cargo": "General Freight",
@@ -1544,7 +1544,7 @@
    "last30": 10,
    "last7": 0,
    "name": "Maine",
-   "renewals60d": 4,
+   "renewals60d": 3,
    "sample": [
     {
      "cargo": "General Freight",
@@ -1623,11 +1623,11 @@
    "yesterday": 0
   },
   "MI": {
-   "lapses30d": 31,
+   "lapses30d": 15,
    "last30": 107,
    "last7": 26,
    "name": "Michigan",
-   "renewals60d": 151,
+   "renewals60d": 150,
    "sample": [
     {
      "cargo": "General Freight; Logs/Poles/Beams; Building Materials; Beverages; Paper Products; Construction; Water Well",
@@ -1706,11 +1706,11 @@
    "yesterday": 2
   },
   "MN": {
-   "lapses30d": 30,
+   "lapses30d": 9,
    "last30": 109,
    "last7": 29,
    "name": "Minnesota",
-   "renewals60d": 142,
+   "renewals60d": 141,
    "sample": [
     {
      "cargo": "General Freight",
@@ -1789,7 +1789,7 @@
    "yesterday": 5
   },
   "MO": {
-   "lapses30d": 25,
+   "lapses30d": 7,
    "last30": 85,
    "last7": 22,
    "name": "Missouri",
@@ -1872,11 +1872,11 @@
    "yesterday": 3
   },
   "MS": {
-   "lapses30d": 14,
+   "lapses30d": 7,
    "last30": 53,
    "last7": 10,
    "name": "Mississippi",
-   "renewals60d": 50,
+   "renewals60d": 49,
    "sample": [
     {
      "cargo": "General Freight",
@@ -1921,7 +1921,7 @@
     {
      "cargo": "General Freight",
      "city": "Brandon",
-     "email": "T\u2022\u2022\u2022@BELLSOUTH.NET",
+     "email": "t\u2022\u2022\u2022@bellsouth.net",
      "granted": "Nov 18, 2026",
      "insurer": "GEICO GENERAL INSURANCE COMPANY",
      "name": "Premier Quality Express LLC",
@@ -1955,7 +1955,7 @@
    "yesterday": 2
   },
   "MT": {
-   "lapses30d": 3,
+   "lapses30d": 2,
    "last30": 12,
    "last7": 3,
    "name": "Montana",
@@ -2038,11 +2038,11 @@
    "yesterday": 0
   },
   "NC": {
-   "lapses30d": 59,
+   "lapses30d": 37,
    "last30": 182,
    "last7": 43,
    "name": "North Carolina",
-   "renewals60d": 219,
+   "renewals60d": 214,
    "sample": [
     {
      "cargo": "General Freight",
@@ -2121,11 +2121,11 @@
    "yesterday": 5
   },
   "ND": {
-   "lapses30d": 6,
+   "lapses30d": 3,
    "last30": 20,
    "last7": 4,
    "name": "North Dakota",
-   "renewals60d": 33,
+   "renewals60d": 34,
    "sample": [
     {
      "cargo": "Grain/Feed; Other",
@@ -2204,7 +2204,7 @@
    "yesterday": 0
   },
   "NE": {
-   "lapses30d": 7,
+   "lapses30d": 4,
    "last30": 23,
    "last7": 3,
    "name": "Nebraska",
@@ -2287,7 +2287,7 @@
    "yesterday": 0
   },
   "NH": {
-   "lapses30d": 2,
+   "lapses30d": 0,
    "last30": 13,
    "last7": 1,
    "name": "New Hampshire",
@@ -2370,11 +2370,11 @@
    "yesterday": 0
   },
   "NJ": {
-   "lapses30d": 68,
+   "lapses30d": 31,
    "last30": 184,
    "last7": 45,
    "name": "New Jersey",
-   "renewals60d": 201,
+   "renewals60d": 199,
    "sample": [
     {
      "cargo": "General Freight",
@@ -2453,11 +2453,11 @@
    "yesterday": 2
   },
   "NM": {
-   "lapses30d": 5,
+   "lapses30d": 0,
    "last30": 20,
    "last7": 5,
    "name": "New Mexico",
-   "renewals60d": 33,
+   "renewals60d": 34,
    "sample": [
     {
      "cargo": "General Freight",
@@ -2536,11 +2536,11 @@
    "yesterday": 0
   },
   "NV": {
-   "lapses30d": 13,
+   "lapses30d": 14,
    "last30": 45,
    "last7": 13,
    "name": "Nevada",
-   "renewals60d": 59,
+   "renewals60d": 58,
    "sample": [
     {
      "cargo": "General Freight; Intermodal Containers",
@@ -2619,11 +2619,11 @@
    "yesterday": 1
   },
   "NY": {
-   "lapses30d": 18,
+   "lapses30d": 16,
    "last30": 68,
    "last7": 13,
    "name": "New York",
-   "renewals60d": 89,
+   "renewals60d": 88,
    "sample": [
     {
      "cargo": "Building Materials; Construction",
@@ -2702,11 +2702,11 @@
    "yesterday": 1
   },
   "OH": {
-   "lapses30d": 78,
+   "lapses30d": 38,
    "last30": 267,
    "last7": 62,
    "name": "Ohio",
-   "renewals60d": 367,
+   "renewals60d": 364,
    "sample": [
     {
      "cargo": "Metal Sheets/Coils; Logs/Poles/Beams; Building Materials; Machinery (Large); Grain/Feed; Paper Products; Farm Supplies; Construction; Water Well",
@@ -2785,11 +2785,11 @@
    "yesterday": 6
   },
   "OK": {
-   "lapses30d": 21,
+   "lapses30d": 10,
    "last30": 57,
    "last7": 11,
    "name": "Oklahoma",
-   "renewals60d": 68,
+   "renewals60d": 67,
    "sample": [
     {
      "cargo": "Garbage/Refuse",
@@ -2868,11 +2868,11 @@
    "yesterday": 0
   },
   "OR": {
-   "lapses30d": 11,
+   "lapses30d": 9,
    "last30": 37,
    "last7": 9,
    "name": "Oregon",
-   "renewals60d": 60,
+   "renewals60d": 58,
    "sample": [
     {
      "cargo": "General Freight; Metal Sheets/Coils; Logs/Poles/Beams; Building Materials; Machinery (Large); Fresh Produce; Intermodal Containers; Grain/Feed; U.S. Mail; Beverages; Paper Products; Utilities; Farm Supplies; Construction",
@@ -2917,12 +2917,12 @@
     {
      "cargo": "General Freight; Logs/Poles/Beams; Building Materials; Machinery (Large); Construction",
      "city": "Redmond",
-     "email": "R\u2022\u2022\u2022@GMAIL.COM",
+     "email": "r\u2022\u2022\u2022@gmail.com",
      "granted": "Nov 18, 2026",
      "insurer": "Western National Mutual Insurance",
      "name": "RELSON CONTRACTING LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-3782",
-     "trucks": "5"
+     "trucks": "9"
     }
    ],
    "slug": "oregon",
@@ -2951,11 +2951,11 @@
    "yesterday": 0
   },
   "PA": {
-   "lapses30d": 71,
+   "lapses30d": 30,
    "last30": 302,
    "last7": 67,
    "name": "Pennsylvania",
-   "renewals60d": 335,
+   "renewals60d": 327,
    "sample": [
     {
      "cargo": "General Freight",
@@ -3034,7 +3034,7 @@
    "yesterday": 7
   },
   "RI": {
-   "lapses30d": 3,
+   "lapses30d": 2,
    "last30": 13,
    "last7": 3,
    "name": "Rhode Island",
@@ -3117,11 +3117,11 @@
    "yesterday": 0
   },
   "SC": {
-   "lapses30d": 28,
+   "lapses30d": 11,
    "last30": 85,
    "last7": 19,
    "name": "South Carolina",
-   "renewals60d": 86,
+   "renewals60d": 85,
    "sample": [
     {
      "cargo": "General Freight; Other",
@@ -3200,7 +3200,7 @@
    "yesterday": 4
   },
   "SD": {
-   "lapses30d": 5,
+   "lapses30d": 2,
    "last30": 15,
    "last7": 5,
    "name": "South Dakota",
@@ -3283,7 +3283,7 @@
    "yesterday": 0
   },
   "TN": {
-   "lapses30d": 36,
+   "lapses30d": 19,
    "last30": 95,
    "last7": 27,
    "name": "Tennessee",
@@ -3366,11 +3366,11 @@
    "yesterday": 6
   },
   "TX": {
-   "lapses30d": 229,
+   "lapses30d": 98,
    "last30": 629,
    "last7": 142,
    "name": "Texas",
-   "renewals60d": 874,
+   "renewals60d": 864,
    "sample": [
     {
      "cargo": "Motor Vehicles",
@@ -3449,11 +3449,11 @@
    "yesterday": 20
   },
   "UT": {
-   "lapses30d": 13,
+   "lapses30d": 9,
    "last30": 37,
    "last7": 10,
    "name": "Utah",
-   "renewals60d": 65,
+   "renewals60d": 64,
    "sample": [
     {
      "cargo": "General Freight",
@@ -3532,11 +3532,11 @@
    "yesterday": 2
   },
   "VA": {
-   "lapses30d": 33,
+   "lapses30d": 15,
    "last30": 99,
    "last7": 25,
    "name": "Virginia",
-   "renewals60d": 89,
+   "renewals60d": 88,
    "sample": [
     {
      "cargo": "General Freight",
@@ -3579,14 +3579,14 @@
      "trucks": "1"
     },
     {
-     "cargo": "General Freight",
+     "cargo": "General Freight; Motor Vehicles",
      "city": "Charles City",
      "email": "m\u2022\u2022\u2022@gmail.com",
      "granted": "Nov 18, 2026",
      "insurer": "PROGRESSIVE NORTHERN INSURANCE COMPANY",
      "name": "PMH Logistics LLC",
      "phone": "(\u2022\u2022\u2022) \u2022\u2022\u2022-0248",
-     "trucks": "3"
+     "trucks": "1"
     }
    ],
    "slug": "virginia",
@@ -3615,7 +3615,7 @@
    "yesterday": 2
   },
   "VT": {
-   "lapses30d": 1,
+   "lapses30d": 0,
    "last30": 3,
    "last7": 0,
    "name": "Vermont",
@@ -3670,7 +3670,7 @@
    "yesterday": 0
   },
   "WA": {
-   "lapses30d": 33,
+   "lapses30d": 14,
    "last30": 79,
    "last7": 15,
    "name": "Washington",
@@ -3753,7 +3753,7 @@
    "yesterday": 0
   },
   "WI": {
-   "lapses30d": 12,
+   "lapses30d": 6,
    "last30": 53,
    "last7": 15,
    "name": "Wisconsin",
@@ -3836,11 +3836,11 @@
    "yesterday": 1
   },
   "WV": {
-   "lapses30d": 2,
+   "lapses30d": 0,
    "last30": 13,
    "last7": 2,
    "name": "West Virginia",
-   "renewals60d": 12,
+   "renewals60d": 11,
    "sample": [
     {
      "cargo": "General Freight; Metal Sheets/Coils; Motor Vehicles; Logs/Poles/Beams; Machinery (Large)",
@@ -3919,7 +3919,7 @@
    "yesterday": 0
   },
   "WY": {
-   "lapses30d": 8,
+   "lapses30d": 3,
    "last30": 16,
    "last7": 4,
    "name": "Wyoming",
