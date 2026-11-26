@@ -4005,6 +4005,6 @@
  "windows": {
   "last30": "the trailing 30 days ending November 25, 2026",
   "last7": "the 7 days ending November 25, 2026",
-  "yesterday": "grants dated November 25, 2026 (the newest FMCSA file date)"
+  "yesterday": "grants dated November 25, 2026 (the newest grant date in the FMCSA file)"
  }
 }
